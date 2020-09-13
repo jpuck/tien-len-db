@@ -54,6 +54,12 @@
         "rank": 8
     },
     {
+        "id": "b86759d4ce6aee5514f2d3d162a2ddf60e6f5d51",
+        "username": "Max",
+        "wins": 2,
+        "rank": 8
+    },
+    {
         "id": "501168662c6dd43a58257bb28a10a829edf32869",
         "username": "Steve French",
         "wins": 1,
@@ -68,12 +74,6 @@
     {
         "id": "b6159d3a2febc96057d9b05f4c11618b0c1dbd9e",
         "username": "Bilbo Baggins",
-        "wins": 1,
-        "rank": 9
-    },
-    {
-        "id": "b86759d4ce6aee5514f2d3d162a2ddf60e6f5d51",
-        "username": "Max",
         "wins": 1,
         "rank": 9
     }
