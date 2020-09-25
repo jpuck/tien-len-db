@@ -1,80 +1,112 @@
 [
     {
-        "id": "12c32c9990adc2d3797d7e4f0b4cf671d3509bcf",
         "username": "Dildo Baggins",
         "wins": 43,
+        "games": 101,
+        "points": 172,
+        "eligible": 434,
+        "id": "12c32c9990adc2d3797d7e4f0b4cf671d3509bcf",
+        "ratio": 0.39631336405529954,
         "rank": 1
     },
     {
-        "id": "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b",
-        "username": "Jeff",
-        "wins": 26,
+        "username": "Steve French",
+        "wins": 1,
+        "games": 3,
+        "points": 4,
+        "eligible": 16,
+        "id": "501168662c6dd43a58257bb28a10a829edf32869",
+        "ratio": 0.25,
         "rank": 2
     },
     {
-        "id": "05f19022174c3409f5c3e326a7b5af7807de5f3a",
-        "username": "Mr. Lahey",
-        "wins": 18,
+        "username": "Max",
+        "wins": 10,
+        "games": 42,
+        "points": 49,
+        "eligible": 212,
+        "id": "b86759d4ce6aee5514f2d3d162a2ddf60e6f5d51",
+        "ratio": 0.23113207547169812,
         "rank": 3
     },
     {
-        "id": "5d1cdbcdf38ba96ee688ceb33b646a8c4bea957e",
-        "username": "Dick Wreckard",
-        "wins": 14,
+        "username": "Jeff",
+        "wins": 27,
+        "games": 133,
+        "points": 118,
+        "eligible": 611,
+        "id": "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b",
+        "ratio": 0.19312602291325695,
         "rank": 4
     },
     {
-        "id": "76235cc86e4a414e90850917025ae97586309727",
-        "username": "julian",
-        "wins": 9,
+        "username": "Lee",
+        "wins": 4,
+        "games": 21,
+        "points": 24,
+        "eligible": 130,
+        "id": "7a739a04f1301a739ea562fcf2b41fdfca12e351",
+        "ratio": 0.18461538461538463,
         "rank": 5
     },
     {
-        "id": "7a739a04f1301a739ea562fcf2b41fdfca12e351",
-        "username": "Lee",
-        "wins": 5,
+        "username": "julian",
+        "wins": 9,
+        "games": 48,
+        "points": 49,
+        "eligible": 269,
+        "id": "76235cc86e4a414e90850917025ae97586309727",
+        "ratio": 0.1821561338289963,
         "rank": 6
     },
     {
-        "id": "b86759d4ce6aee5514f2d3d162a2ddf60e6f5d51",
-        "username": "Max",
-        "wins": 5,
-        "rank": 6
-    },
-    {
-        "id": "84286dbd6d48d3c1941b09588cc593e62384fd20",
-        "username": "ought-tow",
-        "wins": 5,
-        "rank": 6
-    },
-    {
-        "id": "a228d355718a82588822a3ec9c858016c7edbde3",
-        "username": "Max",
-        "wins": 4,
+        "username": "Mr. Lahey",
+        "wins": 19,
+        "games": 102,
+        "points": 83,
+        "eligible": 464,
+        "id": "05f19022174c3409f5c3e326a7b5af7807de5f3a",
+        "ratio": 0.1788793103448276,
         "rank": 7
     },
     {
-        "id": "740e4b54b531f9881746419a686aacf4a2f69d2b",
         "username": "Tipton",
         "wins": 2,
+        "games": 14,
+        "points": 14,
+        "eligible": 83,
+        "id": "740e4b54b531f9881746419a686aacf4a2f69d2b",
+        "ratio": 0.1686746987951807,
         "rank": 8
     },
     {
-        "id": "501168662c6dd43a58257bb28a10a829edf32869",
-        "username": "Steve French",
-        "wins": 1,
+        "username": "Dick Wreckard",
+        "wins": 14,
+        "games": 86,
+        "points": 65,
+        "eligible": 411,
+        "id": "5d1cdbcdf38ba96ee688ceb33b646a8c4bea957e",
+        "ratio": 0.15815085158150852,
         "rank": 9
     },
     {
-        "id": "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6",
+        "username": "ought-tow",
+        "wins": 5,
+        "games": 37,
+        "points": 29,
+        "eligible": 219,
+        "id": "84286dbd6d48d3c1941b09588cc593e62384fd20",
+        "ratio": 0.1324200913242009,
+        "rank": 10
+    },
+    {
         "username": "Craaaaig",
         "wins": 1,
-        "rank": 9
-    },
-    {
-        "id": "b6159d3a2febc96057d9b05f4c11618b0c1dbd9e",
-        "username": "Bilbo Baggins",
-        "wins": 1,
-        "rank": 9
+        "games": 11,
+        "points": 6,
+        "eligible": 65,
+        "id": "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6",
+        "ratio": 0.09230769230769231,
+        "rank": 11
     }
 ]

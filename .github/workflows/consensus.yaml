@@ -1,0 +1,20 @@
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12.18.x'
+      - run: node scripts/conduct-census.js
+      - run: node scripts/merge-aliases.js
+      - run: node scripts/create-leaderboard.js
+      - run: |
+          git diff --quiet && echo "no changes" && exit
+          git config user.name "Consensus Bot"
+          git config user.email tienlen@example.org
+          git add .
+          git commit -m "consensus"
+          git push
