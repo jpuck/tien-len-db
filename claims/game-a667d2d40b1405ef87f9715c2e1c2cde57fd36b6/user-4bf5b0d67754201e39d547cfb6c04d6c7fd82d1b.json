@@ -1,0 +1,19 @@
+{
+    "game": {
+        "id": "a667d2d40b1405ef87f9715c2e1c2cde57fd36b6",
+        "table": {
+            "id": "3da541559918a808c2402bba5012f6c60b27661c",
+            "name": "asdf"
+        },
+        "winner": {
+            "id": "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b",
+            "username": "Jeff"
+        },
+        "losers": []
+    },
+    "submitted_at": "2020-09-25T02:44:09.743Z",
+    "submitted_by": {
+        "id": "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b",
+        "username": "Jeff"
+    }
+}
