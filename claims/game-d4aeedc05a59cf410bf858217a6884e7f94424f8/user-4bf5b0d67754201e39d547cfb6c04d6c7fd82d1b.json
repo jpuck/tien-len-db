@@ -1,0 +1,35 @@
+{
+    "game": {
+        "id": "d4aeedc05a59cf410bf858217a6884e7f94424f8",
+        "table": {
+            "id": "9d3514e94c72267235238957ab332751cf945f26",
+            "name": "winter is coming"
+        },
+        "winner": {
+            "id": "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b",
+            "username": "Jeff"
+        },
+        "losers": [
+            {
+                "id": "76235cc86e4a414e90850917025ae97586309727",
+                "username": "julian",
+                "bot": true
+            },
+            {
+                "id": "84286dbd6d48d3c1941b09588cc593e62384fd20",
+                "username": "ought-tow",
+                "bot": false
+            },
+            {
+                "id": "a228d355718a82588822a3ec9c858016c7edbde3",
+                "username": "Max",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2020-10-04T03:05:46.194Z",
+    "submitted_by": {
+        "id": "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b",
+        "username": "Jeff"
+    }
+}
