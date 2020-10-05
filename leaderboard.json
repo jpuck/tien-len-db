@@ -20,6 +20,16 @@
         "rank": 2
     },
     {
+        "username": "Jeff",
+        "wins": 31,
+        "games": 141,
+        "points": 145,
+        "eligible": 670,
+        "id": "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b",
+        "ratio": 0.21641791044776118,
+        "rank": 3
+    },
+    {
         "username": "Lee",
         "wins": 6,
         "games": 28,
@@ -27,26 +37,16 @@
         "eligible": 186,
         "id": "ee5b98224b83a155cba7eda7c3f13bbe33514713",
         "ratio": 0.21505376344086022,
-        "rank": 3
-    },
-    {
-        "username": "Jeff",
-        "wins": 30,
-        "games": 140,
-        "points": 142,
-        "eligible": 667,
-        "id": "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b",
-        "ratio": 0.2128935532233883,
         "rank": 4
     },
     {
         "username": "Max",
         "wins": 10,
-        "games": 49,
+        "games": 50,
         "points": 49,
-        "eligible": 268,
+        "eligible": 271,
         "id": "a228d355718a82588822a3ec9c858016c7edbde3",
-        "ratio": 0.1828358208955224,
+        "ratio": 0.18081180811808117,
         "rank": 5
     },
     {
@@ -72,11 +72,11 @@
     {
         "username": "julian",
         "wins": 9,
-        "games": 55,
+        "games": 56,
         "points": 49,
-        "eligible": 325,
+        "eligible": 328,
         "id": "76235cc86e4a414e90850917025ae97586309727",
-        "ratio": 0.15076923076923077,
+        "ratio": 0.14939024390243902,
         "rank": 8
     },
     {
@@ -92,11 +92,11 @@
     {
         "username": "ought-tow",
         "wins": 6,
-        "games": 44,
+        "games": 45,
         "points": 37,
-        "eligible": 275,
+        "eligible": 278,
         "id": "84286dbd6d48d3c1941b09588cc593e62384fd20",
-        "ratio": 0.13454545454545455,
+        "ratio": 0.13309352517985612,
         "rank": 10
     },
     {
