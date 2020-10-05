@@ -2,6 +2,7 @@ const fs = require('fs')
 const Crypto = require('crypto');
 const users = require('./shared/users')
 const CLAIMS_DIRECTORIES = './claims'
+const UNANIMOUS = process.argv.includes('--no-unanimous') ? false : true
 
 async function processGames(path) {
     const dir = await fs.promises.opendir(path)
@@ -45,9 +46,11 @@ async function processClaims(path) {
         return
     }
 
-    for (const [claimant, agreed] of Object.entries(claimants)) {
-        if (!agreed) {
-            throw new Error(claimant + " has not agreed")
+    if (UNANIMOUS) {
+        for (const [claimant, agreed] of Object.entries(claimants)) {
+            if (!agreed) {
+                throw new Error(claimant + " has not agreed")
+            }
         }
     }
 
