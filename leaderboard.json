@@ -10,16 +10,6 @@
         "rank": 1
     },
     {
-        "username": "Lee",
-        "wins": 2,
-        "games": 7,
-        "points": 16,
-        "eligible": 56,
-        "id": "ee5b98224b83a155cba7eda7c3f13bbe33514713",
-        "ratio": 0.2857142857142857,
-        "rank": 2
-    },
-    {
         "username": "Steve French",
         "wins": 1,
         "games": 3,
@@ -27,17 +17,17 @@
         "eligible": 16,
         "id": "501168662c6dd43a58257bb28a10a829edf32869",
         "ratio": 0.25,
-        "rank": 3
+        "rank": 2
     },
     {
-        "username": "Max",
-        "wins": 10,
-        "games": 42,
-        "points": 49,
-        "eligible": 212,
-        "id": "b86759d4ce6aee5514f2d3d162a2ddf60e6f5d51",
-        "ratio": 0.23113207547169812,
-        "rank": 4
+        "username": "Lee",
+        "wins": 6,
+        "games": 28,
+        "points": 40,
+        "eligible": 186,
+        "id": "ee5b98224b83a155cba7eda7c3f13bbe33514713",
+        "ratio": 0.21505376344086022,
+        "rank": 3
     },
     {
         "username": "Jeff",
@@ -47,17 +37,17 @@
         "eligible": 667,
         "id": "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b",
         "ratio": 0.2128935532233883,
-        "rank": 5
+        "rank": 4
     },
     {
-        "username": "Lee",
-        "wins": 4,
-        "games": 21,
-        "points": 24,
-        "eligible": 130,
-        "id": "7a739a04f1301a739ea562fcf2b41fdfca12e351",
-        "ratio": 0.18461538461538463,
-        "rank": 6
+        "username": "Max",
+        "wins": 10,
+        "games": 49,
+        "points": 49,
+        "eligible": 268,
+        "id": "a228d355718a82588822a3ec9c858016c7edbde3",
+        "ratio": 0.1828358208955224,
+        "rank": 5
     },
     {
         "username": "Mr. Lahey",
@@ -67,7 +57,7 @@
         "eligible": 520,
         "id": "05f19022174c3409f5c3e326a7b5af7807de5f3a",
         "ratio": 0.1596153846153846,
-        "rank": 7
+        "rank": 6
     },
     {
         "username": "Tipton",
@@ -77,7 +67,7 @@
         "eligible": 139,
         "id": "740e4b54b531f9881746419a686aacf4a2f69d2b",
         "ratio": 0.15827338129496402,
-        "rank": 8
+        "rank": 7
     },
     {
         "username": "julian",
@@ -87,7 +77,7 @@
         "eligible": 325,
         "id": "76235cc86e4a414e90850917025ae97586309727",
         "ratio": 0.15076923076923077,
-        "rank": 9
+        "rank": 8
     },
     {
         "username": "Dick Wreckard",
@@ -97,7 +87,7 @@
         "eligible": 467,
         "id": "5d1cdbcdf38ba96ee688ceb33b646a8c4bea957e",
         "ratio": 0.139186295503212,
-        "rank": 10
+        "rank": 9
     },
     {
         "username": "ought-tow",
@@ -107,7 +97,7 @@
         "eligible": 275,
         "id": "84286dbd6d48d3c1941b09588cc593e62384fd20",
         "ratio": 0.13454545454545455,
-        "rank": 11
+        "rank": 10
     },
     {
         "username": "Craaaaig",
@@ -117,6 +107,6 @@
         "eligible": 65,
         "id": "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6",
         "ratio": 0.09230769230769231,
-        "rank": 12
+        "rank": 11
     }
 ]
