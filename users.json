@@ -22,24 +22,24 @@
     },
     "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b": {
         "username": "Jeff",
-        "wins": 27,
-        "games": 133,
-        "points": 118,
-        "eligible": 611
+        "wins": 30,
+        "games": 140,
+        "points": 142,
+        "eligible": 667
     },
     "05f19022174c3409f5c3e326a7b5af7807de5f3a": {
         "username": "Mr. Lahey",
         "wins": 19,
-        "games": 102,
+        "games": 109,
         "points": 83,
-        "eligible": 464
+        "eligible": 520
     },
     "76235cc86e4a414e90850917025ae97586309727": {
         "username": "julian",
         "wins": 9,
-        "games": 48,
+        "games": 55,
         "points": 49,
-        "eligible": 269
+        "eligible": 325
     },
     "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6": {
         "username": "Craaaaig",
@@ -57,17 +57,17 @@
     },
     "84286dbd6d48d3c1941b09588cc593e62384fd20": {
         "username": "ought-tow",
-        "wins": 5,
-        "games": 37,
-        "points": 29,
-        "eligible": 219
+        "wins": 6,
+        "games": 44,
+        "points": 37,
+        "eligible": 275
     },
     "740e4b54b531f9881746419a686aacf4a2f69d2b": {
         "username": "Tipton",
-        "wins": 2,
-        "games": 14,
-        "points": 14,
-        "eligible": 83
+        "wins": 3,
+        "games": 21,
+        "points": 22,
+        "eligible": 139
     },
     "7a739a04f1301a739ea562fcf2b41fdfca12e351": {
         "username": "Lee",
@@ -79,9 +79,9 @@
     "5d1cdbcdf38ba96ee688ceb33b646a8c4bea957e": {
         "username": "Dick Wreckard",
         "wins": 14,
-        "games": 86,
+        "games": 93,
         "points": 65,
-        "eligible": 411
+        "eligible": 467
     },
     "b86759d4ce6aee5514f2d3d162a2ddf60e6f5d51": {
         "username": "Max",
@@ -89,5 +89,19 @@
         "games": 42,
         "points": 49,
         "eligible": 212
+    },
+    "a228d355718a82588822a3ec9c858016c7edbde3": {
+        "username": "Max",
+        "wins": 0,
+        "games": 7,
+        "points": 0,
+        "eligible": 56
+    },
+    "ee5b98224b83a155cba7eda7c3f13bbe33514713": {
+        "username": "Lee",
+        "wins": 2,
+        "games": 7,
+        "points": 16,
+        "eligible": 56
     }
 }
