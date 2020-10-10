@@ -10,7 +10,6 @@ jobs:
           node-version: '12.18.x'
       - run: node scripts/conduct-census.js
       - run: node scripts/merge-aliases.js
-      - run: node scripts/create-leaderboard.js
       - run: |
           git diff --quiet && echo "no changes" && exit
           git config user.name "Consensus Bot"
