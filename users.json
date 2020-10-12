@@ -22,10 +22,10 @@
     },
     "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b": {
         "username": "Jeff",
-        "wins": 31,
-        "games": 141,
-        "points": 145,
-        "eligible": 670
+        "wins": 37,
+        "games": 158,
+        "points": 169,
+        "eligible": 738
     },
     "05f19022174c3409f5c3e326a7b5af7807de5f3a": {
         "username": "Mr. Lahey",
@@ -36,10 +36,10 @@
     },
     "76235cc86e4a414e90850917025ae97586309727": {
         "username": "julian",
-        "wins": 9,
-        "games": 56,
-        "points": 49,
-        "eligible": 328
+        "wins": 14,
+        "games": 73,
+        "points": 69,
+        "eligible": 396
     },
     "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6": {
         "username": "Craaaaig",
@@ -57,10 +57,10 @@
     },
     "84286dbd6d48d3c1941b09588cc593e62384fd20": {
         "username": "ought-tow",
-        "wins": 6,
-        "games": 45,
-        "points": 37,
-        "eligible": 278
+        "wins": 9,
+        "games": 62,
+        "points": 49,
+        "eligible": 346
     },
     "740e4b54b531f9881746419a686aacf4a2f69d2b": {
         "username": "Tipton",
@@ -82,6 +82,13 @@
         "games": 50,
         "points": 49,
         "eligible": 271
+    },
+    "real Jeremy": {
+        "username": "Jeremy",
+        "wins": 3,
+        "games": 17,
+        "points": 12,
+        "eligible": 68
     },
     "ee5b98224b83a155cba7eda7c3f13bbe33514713": {
         "username": "Lee",
