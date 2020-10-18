@@ -1,0 +1,50 @@
+{
+    "game": {
+        "id": "b84c48f1a84f4b333475be425050c70f338f3a4c",
+        "table": {
+            "id": "8f8e939d1257f7e12725d5f843aeb4aedf96f45f",
+            "name": "Proletariat"
+        },
+        "winner": {
+            "id": "ee5b98224b83a155cba7eda7c3f13bbe33514713",
+            "username": "Lee"
+        },
+        "losers": [
+            {
+                "id": "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b",
+                "username": "Jeff",
+                "bot": false
+            },
+            {
+                "id": "5d1cdbcdf38ba96ee688ceb33b646a8c4bea957e",
+                "username": "Dick Wreckard",
+                "bot": false
+            },
+            {
+                "id": "740e4b54b531f9881746419a686aacf4a2f69d2b",
+                "username": "Tipton",
+                "bot": false
+            },
+            {
+                "id": "76235cc86e4a414e90850917025ae97586309727",
+                "username": "julian",
+                "bot": false
+            },
+            {
+                "id": "84286dbd6d48d3c1941b09588cc593e62384fd20",
+                "username": "ought-tow",
+                "bot": false
+            },
+            {
+                "id": "a228d355718a82588822a3ec9c858016c7edbde3",
+                "username": "Max",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2020-10-18T05:16:44.476Z",
+    "submitted_by": {
+        "id": "84286dbd6d48d3c1941b09588cc593e62384fd20",
+        "username": "ought-tow"
+    }
+}
