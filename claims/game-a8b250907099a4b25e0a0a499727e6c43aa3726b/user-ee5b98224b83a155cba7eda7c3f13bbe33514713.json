@@ -1,0 +1,45 @@
+{
+    "game": {
+        "id": "a8b250907099a4b25e0a0a499727e6c43aa3726b",
+        "table": {
+            "id": "534f56fa05e5bb9b56d44ce9d0208169abb241d4",
+            "name": "Thanks Black Cyber 🦃"
+        },
+        "winner": {
+            "id": "84286dbd6d48d3c1941b09588cc593e62384fd20",
+            "username": "ought-tow"
+        },
+        "losers": [
+            {
+                "id": "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b",
+                "username": "Jeff",
+                "bot": false
+            },
+            {
+                "id": "5d1cdbcdf38ba96ee688ceb33b646a8c4bea957e",
+                "username": "Dick Wreckard",
+                "bot": false
+            },
+            {
+                "id": "740e4b54b531f9881746419a686aacf4a2f69d2b",
+                "username": "Tipton",
+                "bot": false
+            },
+            {
+                "id": "76235cc86e4a414e90850917025ae97586309727",
+                "username": "julian",
+                "bot": false
+            },
+            {
+                "id": "ee5b98224b83a155cba7eda7c3f13bbe33514713",
+                "username": "Lee",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2020-11-29T05:15:30.547Z",
+    "submitted_by": {
+        "id": "ee5b98224b83a155cba7eda7c3f13bbe33514713",
+        "username": "Lee"
+    }
+}
