@@ -23,9 +23,9 @@
     "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b": {
         "username": "Jeff",
         "wins": 42,
-        "games": 184,
+        "games": 185,
         "points": 200,
-        "eligible": 899
+        "eligible": 903
     },
     "05f19022174c3409f5c3e326a7b5af7807de5f3a": {
         "username": "Mr. Lahey",
@@ -37,9 +37,9 @@
     "76235cc86e4a414e90850917025ae97586309727": {
         "username": "julian",
         "wins": 16,
-        "games": 98,
+        "games": 99,
         "points": 81,
-        "eligible": 554
+        "eligible": 558
     },
     "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6": {
         "username": "Craaaaig",
@@ -71,10 +71,10 @@
     },
     "5d1cdbcdf38ba96ee688ceb33b646a8c4bea957e": {
         "username": "Dick Wreckard",
-        "wins": 19,
-        "games": 119,
-        "points": 92,
-        "eligible": 628
+        "wins": 20,
+        "games": 120,
+        "points": 96,
+        "eligible": 632
     },
     "a228d355718a82588822a3ec9c858016c7edbde3": {
         "username": "Max",
@@ -93,8 +93,8 @@
     "ee5b98224b83a155cba7eda7c3f13bbe33514713": {
         "username": "Lee",
         "wins": 11,
-        "games": 54,
+        "games": 55,
         "points": 72,
-        "eligible": 347
+        "eligible": 351
     }
 }
