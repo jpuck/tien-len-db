@@ -45,7 +45,14 @@
         "name": "ahttoe",
         "target": {
             "id": "84286dbd6d48d3c1941b09588cc593e62384fd20",
-            "name": "ought-to"
+            "name": "ought-tow"
+        }
+    },
+    "84286dbd6d48d3c1941b09588cc593e62384fd20": {
+        "name": "ought-tow",
+        "target": {
+            "id": "867e53b09462dd46048277b43e1e916619c2e224",
+            "name": "Ottonomous"
         }
     },
     "7a739a04f1301a739ea562fcf2b41fdfca12e351": {

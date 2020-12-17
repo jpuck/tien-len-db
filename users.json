@@ -55,13 +55,6 @@
         "points": 4,
         "eligible": 16
     },
-    "84286dbd6d48d3c1941b09588cc593e62384fd20": {
-        "username": "ought-tow",
-        "wins": 14,
-        "games": 84,
-        "points": 81,
-        "eligible": 490
-    },
     "740e4b54b531f9881746419a686aacf4a2f69d2b": {
         "username": "Tipton",
         "wins": 4,
@@ -99,9 +92,9 @@
     },
     "867e53b09462dd46048277b43e1e916619c2e224": {
         "username": "Ottonomous",
-        "wins": 1,
-        "games": 3,
-        "points": 5,
-        "eligible": 15
+        "wins": 15,
+        "games": 87,
+        "points": 86,
+        "eligible": 505
     }
 }
