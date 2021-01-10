@@ -1,0 +1,19 @@
+{
+    "game": {
+        "id": "a4056be3de33d19b4388bf38b116d2ea58c263c2",
+        "table": {
+            "id": "32c9bcb10ced7fe64cec67834a9947a19eb3ade6",
+            "name": "Egg"
+        },
+        "winner": {
+            "id": "59f6ca7869507036f627c909f4cac22162e8dff8",
+            "username": "Egg"
+        },
+        "losers": []
+    },
+    "submitted_at": "2021-01-10T07:35:00.803Z",
+    "submitted_by": {
+        "id": "59f6ca7869507036f627c909f4cac22162e8dff8",
+        "username": "Egg"
+    }
+}
