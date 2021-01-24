@@ -1,0 +1,35 @@
+{
+    "game": {
+        "id": "8074444597ec3cd442ad72829fe0dc3affe1c29b",
+        "table": {
+            "id": "93f44d5aa00ba20decabbc799642eba6fe2ada56",
+            "name": "The Biden Administration"
+        },
+        "winner": {
+            "id": "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b",
+            "username": "Jeff"
+        },
+        "losers": [
+            {
+                "id": "5d1cdbcdf38ba96ee688ceb33b646a8c4bea957e",
+                "username": "Dick Wreckard",
+                "bot": false
+            },
+            {
+                "id": "740e4b54b531f9881746419a686aacf4a2f69d2b",
+                "username": "Tipton",
+                "bot": false
+            },
+            {
+                "id": "c630c3c4ac196519208eb42ddf6059fe4769b246",
+                "username": "Lee",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2021-01-24T03:26:33.750Z",
+    "submitted_by": {
+        "id": "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b",
+        "username": "Jeff"
+    }
+}
