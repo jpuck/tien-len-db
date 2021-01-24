@@ -1,0 +1,55 @@
+{
+    "game": {
+        "id": "1c9629c8cdf6fef6cc67c68c17e9f1e1732b59ee",
+        "table": {
+            "id": "93f44d5aa00ba20decabbc799642eba6fe2ada56",
+            "name": "The Biden Administration"
+        },
+        "winner": {
+            "id": "5d1cdbcdf38ba96ee688ceb33b646a8c4bea957e",
+            "username": "Dick Wreckard"
+        },
+        "losers": [
+            {
+                "id": "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b",
+                "username": "Jeff",
+                "bot": false
+            },
+            {
+                "id": "61d9d89ca98c8e05b03fe89d14a58be4b17d2176",
+                "username": "Bordeaux",
+                "bot": false
+            },
+            {
+                "id": "740e4b54b531f9881746419a686aacf4a2f69d2b",
+                "username": "Tipton",
+                "bot": false
+            },
+            {
+                "id": "76235cc86e4a414e90850917025ae97586309727",
+                "username": "julian",
+                "bot": false
+            },
+            {
+                "id": "84286dbd6d48d3c1941b09588cc593e62384fd20",
+                "username": "ought-tow",
+                "bot": false
+            },
+            {
+                "id": "b85303a90373ab0e527cbe979ac9fab0ac6de50c",
+                "username": "Dildo Baggins",
+                "bot": false
+            },
+            {
+                "id": "c630c3c4ac196519208eb42ddf6059fe4769b246",
+                "username": "Lee",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2021-01-24T05:04:55.041Z",
+    "submitted_by": {
+        "id": "61d9d89ca98c8e05b03fe89d14a58be4b17d2176",
+        "username": "Bordeaux"
+    }
+}
