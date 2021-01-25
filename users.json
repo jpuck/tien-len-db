@@ -22,10 +22,10 @@
     },
     "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b": {
         "username": "Jeff",
-        "wins": 48,
-        "games": 196,
-        "points": 226,
-        "eligible": 951
+        "wins": 49,
+        "games": 206,
+        "points": 230,
+        "eligible": 1021
     },
     "05f19022174c3409f5c3e326a7b5af7807de5f3a": {
         "username": "Mr. Lahey",
@@ -36,10 +36,10 @@
     },
     "76235cc86e4a414e90850917025ae97586309727": {
         "username": "julian",
-        "wins": 20,
-        "games": 108,
-        "points": 98,
-        "eligible": 600
+        "wins": 21,
+        "games": 116,
+        "points": 106,
+        "eligible": 661
     },
     "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6": {
         "username": "Craaaaig",
@@ -58,16 +58,16 @@
     "740e4b54b531f9881746419a686aacf4a2f69d2b": {
         "username": "Tipton",
         "wins": 4,
-        "games": 43,
+        "games": 53,
         "points": 29,
-        "eligible": 284
+        "eligible": 354
     },
     "5d1cdbcdf38ba96ee688ceb33b646a8c4bea957e": {
         "username": "Dick Wreckard",
-        "wins": 20,
-        "games": 131,
-        "points": 96,
-        "eligible": 680
+        "wins": 24,
+        "games": 141,
+        "points": 123,
+        "eligible": 750
     },
     "a228d355718a82588822a3ec9c858016c7edbde3": {
         "username": "Max",
@@ -99,16 +99,30 @@
     },
     "b85303a90373ab0e527cbe979ac9fab0ac6de50c": {
         "username": "Dildo Baggins",
-        "wins": 0,
-        "games": 1,
-        "points": 0,
-        "eligible": 7
+        "wins": 1,
+        "games": 9,
+        "points": 8,
+        "eligible": 68
     },
     "c630c3c4ac196519208eb42ddf6059fe4769b246": {
         "username": "Lee",
         "wins": 0,
-        "games": 1,
+        "games": 11,
         "points": 0,
-        "eligible": 7
+        "eligible": 77
+    },
+    "84286dbd6d48d3c1941b09588cc593e62384fd20": {
+        "username": "ought-tow",
+        "wins": 2,
+        "games": 9,
+        "points": 15,
+        "eligible": 66
+    },
+    "61d9d89ca98c8e05b03fe89d14a58be4b17d2176": {
+        "username": "Bordeaux",
+        "wins": 1,
+        "games": 5,
+        "points": 8,
+        "eligible": 40
     }
 }
