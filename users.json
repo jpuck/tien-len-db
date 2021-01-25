@@ -13,13 +13,6 @@
         "points": 0,
         "eligible": 31
     },
-    "12c32c9990adc2d3797d7e4f0b4cf671d3509bcf": {
-        "username": "Dildo Baggins",
-        "wins": 43,
-        "games": 101,
-        "points": 172,
-        "eligible": 434
-    },
     "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b": {
         "username": "Jeff",
         "wins": 49,
@@ -83,40 +76,26 @@
         "points": 12,
         "eligible": 68
     },
-    "ee5b98224b83a155cba7eda7c3f13bbe33514713": {
-        "username": "Lee",
-        "wins": 11,
-        "games": 65,
-        "points": 72,
-        "eligible": 392
-    },
-    "867e53b09462dd46048277b43e1e916619c2e224": {
-        "username": "Ottonomous",
-        "wins": 15,
-        "games": 88,
-        "points": 86,
-        "eligible": 512
-    },
     "b85303a90373ab0e527cbe979ac9fab0ac6de50c": {
         "username": "Dildo Baggins",
-        "wins": 1,
-        "games": 9,
-        "points": 8,
-        "eligible": 68
+        "wins": 44,
+        "games": 110,
+        "points": 180,
+        "eligible": 502
     },
     "c630c3c4ac196519208eb42ddf6059fe4769b246": {
         "username": "Lee",
-        "wins": 0,
-        "games": 11,
-        "points": 0,
-        "eligible": 77
+        "wins": 11,
+        "games": 76,
+        "points": 72,
+        "eligible": 469
     },
     "84286dbd6d48d3c1941b09588cc593e62384fd20": {
         "username": "ought-tow",
-        "wins": 2,
-        "games": 9,
-        "points": 15,
-        "eligible": 66
+        "wins": 17,
+        "games": 97,
+        "points": 101,
+        "eligible": 578
     },
     "61d9d89ca98c8e05b03fe89d14a58be4b17d2176": {
         "username": "Bordeaux",
