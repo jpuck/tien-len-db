@@ -69,6 +69,10 @@ function applyUserStats(claim) {
     }
 
     const winner = users.findOrCreate(claim.game.winner)
+
+    // update in case username changes
+    winner.username = claim.game.winner.username
+
     winner.wins++
     winner.games++
     winner.points += eligible
@@ -76,6 +80,10 @@ function applyUserStats(claim) {
 
     claim.game.losers.forEach(loser => {
         const user = users.findOrCreate(loser)
+
+        // update in case username changes
+        user.username = loser.username
+
         user.games++
         user.eligible += eligible
     })
