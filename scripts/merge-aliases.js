@@ -2,14 +2,14 @@ const fs = require('fs');
 const users = require('./shared/users')
 const aliases = JSON.parse(fs.readFileSync('./aliases.json', 'utf8'))
 
-function checkAlias(aid, { id, name }) {
+function checkAlias(aid, { id, username }) {
     const alias = users.find(aid)
 
     if (!alias) {
         return
     }
 
-    const user = users.findOrCreate({ id, name })
+    const user = users.findOrCreate({ id, username })
 
     user.wins += alias.wins
     user.games += alias.games
