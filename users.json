@@ -1,5 +1,6 @@
 {
     "aac425aeafa98b54a3d88e5e9d69ca206cddda12": {
+        "id": "aac425aeafa98b54a3d88e5e9d69ca206cddda12",
         "username": "dummy",
         "wins": 0,
         "games": 7,
@@ -7,6 +8,7 @@
         "eligible": 28
     },
     "b5997ef780db7219f371e9660ae85f034506748b": {
+        "id": "b5997ef780db7219f371e9660ae85f034506748b",
         "username": "dingus",
         "wins": 0,
         "games": 8,
@@ -14,6 +16,7 @@
         "eligible": 31
     },
     "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6": {
+        "id": "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6",
         "username": "Craaaaig",
         "wins": 1,
         "games": 11,
@@ -21,6 +24,7 @@
         "eligible": 65
     },
     "a228d355718a82588822a3ec9c858016c7edbde3": {
+        "id": "a228d355718a82588822a3ec9c858016c7edbde3",
         "username": "Max",
         "wins": 10,
         "games": 55,
@@ -28,6 +32,7 @@
         "eligible": 307
     },
     "real Jeremy": {
+        "id": "real Jeremy",
         "username": "Jeremy",
         "wins": 3,
         "games": 17,
@@ -35,6 +40,7 @@
         "eligible": 68
     },
     "discord-597504144592338969": {
+        "id": "discord-597504144592338969",
         "username": "miek",
         "wins": 21,
         "games": 116,
@@ -42,6 +48,7 @@
         "eligible": 661
     },
     "discord-188102500870520832": {
+        "id": "discord-188102500870520832",
         "username": "ottonomous",
         "wins": 17,
         "games": 97,
@@ -49,6 +56,7 @@
         "eligible": 578
     },
     "discord-806975243724783646": {
+        "id": "discord-806975243724783646",
         "username": "dirkish",
         "wins": 22,
         "games": 125,
@@ -56,6 +64,7 @@
         "eligible": 625
     },
     "discord-708836607196790826": {
+        "id": "discord-708836607196790826",
         "username": "CraigCraig",
         "wins": 44,
         "games": 110,
@@ -63,6 +72,7 @@
         "eligible": 502
     },
     "discord-458751755447042059": {
+        "id": "discord-458751755447042059",
         "username": "jpuck",
         "wins": 49,
         "games": 206,
@@ -70,6 +80,7 @@
         "eligible": 1021
     },
     "discord-525136093998350346": {
+        "id": "discord-525136093998350346",
         "username": "RoboMoti",
         "wins": 24,
         "games": 141,
@@ -77,6 +88,7 @@
         "eligible": 750
     },
     "discord-151329021374889984": {
+        "id": "discord-151329021374889984",
         "username": "tips",
         "wins": 4,
         "games": 53,
@@ -84,6 +96,7 @@
         "eligible": 354
     },
     "discord-328633012088602624": {
+        "id": "discord-328633012088602624",
         "username": "jackmuv",
         "wins": 1,
         "games": 5,
@@ -91,6 +104,7 @@
         "eligible": 40
     },
     "discord-634397877883371520": {
+        "id": "discord-634397877883371520",
         "username": "Smoghog",
         "wins": 11,
         "games": 76,
@@ -98,6 +112,7 @@
         "eligible": 469
     },
     "discord-169194245578555392": {
+        "id": "discord-169194245578555392",
         "username": "wastedways",
         "wins": 1,
         "games": 3,

@@ -14,3 +14,10 @@ If for some reason a claim is missing, then you can still commit the remaining c
 ```
 node scripts/conduct-census.js --no-unanimous
 ```
+
+## .env
+
+There's no local .env loader yet for any of the scripts, so you'll need to source that in your shell to get it to work.
+
+    . .env
+    export DISCORD_WEBHOOK_URL= # tab complete

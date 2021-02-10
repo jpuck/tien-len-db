@@ -2,6 +2,7 @@ on: push
 
 jobs:
   build:
+    environment: main
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -10,6 +11,9 @@ jobs:
           node-version: '12.18.x'
       - run: node scripts/conduct-census.js
       - run: node scripts/merge-aliases.js
+      - run: node scripts/create-leaderboard.js
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
       - run: |
           git diff --quiet && echo "no changes" && exit
           git config user.name "Consensus Bot"

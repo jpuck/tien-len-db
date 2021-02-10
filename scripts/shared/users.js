@@ -7,7 +7,7 @@ class Users {
     }
 
     all = () => {
-        return Object.entries(this.users)
+        return Object.values(this.users)
     }
 
     find = (id) => {
@@ -16,6 +16,7 @@ class Users {
 
     findOrCreate = ({ id, username }) => {
         return this.find(id) || (this.users[id] = {
+            id,
             username,
             wins: 0,
             games: 0,
