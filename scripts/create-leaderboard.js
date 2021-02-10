@@ -52,9 +52,11 @@ const formatNews = news => {
     news.forEach(player => {
         const username = formatDiscordId(player) + formatSuperscript(player.rank)
 
-        if (player.old_rank_diff > 0 && !stonks) {
-            content += '🚀 stonks\n'
-            stonks = true
+        if (player.old_rank_diff > 0) {
+            if (!stonks) {
+                content += '🚀 stonks\n'
+                stonks = true
+            }
         } else if (stonks) {
             content += '\n📉 not stonks\n'
             stonks = false
