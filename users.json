@@ -42,18 +42,18 @@
     "discord-597504144592338969": {
         "id": "discord-597504144592338969",
         "username": "miek",
-        "wins": 21,
-        "games": 119,
-        "points": 106,
-        "eligible": 675
+        "wins": 23,
+        "games": 133,
+        "points": 116,
+        "eligible": 743
     },
     "discord-188102500870520832": {
         "id": "discord-188102500870520832",
         "username": "ottonomous",
         "wins": 18,
-        "games": 100,
+        "games": 104,
         "points": 106,
-        "eligible": 592
+        "eligible": 612
     },
     "discord-806975243724783646": {
         "id": "discord-806975243724783646",
@@ -74,10 +74,10 @@
     "discord-458751755447042059": {
         "id": "discord-458751755447042059",
         "username": "jpuck",
-        "wins": 49,
-        "games": 208,
-        "points": 230,
-        "eligible": 1031
+        "wins": 52,
+        "games": 222,
+        "points": 245,
+        "eligible": 1099
     },
     "discord-525136093998350346": {
         "id": "discord-525136093998350346",
@@ -118,5 +118,29 @@
         "games": 3,
         "points": 4,
         "eligible": 16
+    },
+    "84286dbd6d48d3c1941b09588cc593e62384fd20": {
+        "id": "84286dbd6d48d3c1941b09588cc593e62384fd20",
+        "username": "ought-tow",
+        "wins": 3,
+        "games": 10,
+        "points": 14,
+        "eligible": 48
+    },
+    "b85303a90373ab0e527cbe979ac9fab0ac6de50c": {
+        "id": "b85303a90373ab0e527cbe979ac9fab0ac6de50c",
+        "username": "Dildo Baggins",
+        "wins": 3,
+        "games": 14,
+        "points": 14,
+        "eligible": 68
+    },
+    "c630c3c4ac196519208eb42ddf6059fe4769b246": {
+        "id": "c630c3c4ac196519208eb42ddf6059fe4769b246",
+        "username": "Lee",
+        "wins": 3,
+        "games": 14,
+        "points": 15,
+        "eligible": 68
     }
 }
