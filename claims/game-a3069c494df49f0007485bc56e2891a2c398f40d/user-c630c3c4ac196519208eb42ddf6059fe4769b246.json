@@ -1,0 +1,40 @@
+{
+    "game": {
+        "id": "a3069c494df49f0007485bc56e2891a2c398f40d",
+        "table": {
+            "id": "f9933fd0914b18a31ade9188cb8a075cf6805381",
+            "name": "Two of Farts"
+        },
+        "winner": {
+            "id": "discord-188102500870520832",
+            "username": "ottonomous"
+        },
+        "losers": [
+            {
+                "id": "b85303a90373ab0e527cbe979ac9fab0ac6de50c",
+                "username": "Dildo Baggins",
+                "bot": false
+            },
+            {
+                "id": "c630c3c4ac196519208eb42ddf6059fe4769b246",
+                "username": "Lee",
+                "bot": false
+            },
+            {
+                "id": "discord-458751755447042059",
+                "username": "jpuck",
+                "bot": false
+            },
+            {
+                "id": "discord-597504144592338969",
+                "username": "miek",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2021-02-21T05:47:26.285Z",
+    "submitted_by": {
+        "id": "c630c3c4ac196519208eb42ddf6059fe4769b246",
+        "username": "Lee"
+    }
+}
