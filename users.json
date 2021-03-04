@@ -23,14 +23,6 @@
         "points": 6,
         "eligible": 65
     },
-    "a228d355718a82588822a3ec9c858016c7edbde3": {
-        "id": "a228d355718a82588822a3ec9c858016c7edbde3",
-        "username": "Max",
-        "wins": 10,
-        "games": 55,
-        "points": 49,
-        "eligible": 307
-    },
     "real Jeremy": {
         "id": "real Jeremy",
         "username": "Jeremy",
@@ -118,5 +110,13 @@
         "games": 3,
         "points": 4,
         "eligible": 16
+    },
+    "discord-239239825989828608": {
+        "id": "discord-239239825989828608",
+        "username": "Max",
+        "wins": 10,
+        "games": 55,
+        "points": 49,
+        "eligible": 307
     }
 }

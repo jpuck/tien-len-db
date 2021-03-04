@@ -7,9 +7,7 @@
         "points": 8,
         "eligible": 40,
         "ratio": 1.6,
-        "rank": 1,
-        "old_rank": 2,
-        "old_rank_diff": 1
+        "rank": 1
     },
     {
         "id": "discord-708836607196790826",
@@ -19,9 +17,7 @@
         "points": 199,
         "eligible": 584,
         "ratio": 1.5669291338582678,
-        "rank": 2,
-        "old_rank": 1,
-        "old_rank_diff": -1
+        "rank": 2
     },
     {
         "id": "discord-169194245578555392",
@@ -64,14 +60,16 @@
         "rank": 6
     },
     {
-        "id": "a228d355718a82588822a3ec9c858016c7edbde3",
+        "id": "discord-239239825989828608",
         "username": "Max",
         "wins": 10,
         "games": 55,
         "points": 49,
         "eligible": 307,
         "ratio": 0.8909090909090909,
-        "rank": 7
+        "rank": 7,
+        "old_rank": null,
+        "old_rank_diff": null
     },
     {
         "id": "discord-525136093998350346",
@@ -81,9 +79,7 @@
         "points": 123,
         "eligible": 750,
         "ratio": 0.8723404255319149,
-        "rank": 8,
-        "old_rank": 9,
-        "old_rank_diff": 1
+        "rank": 8
     },
     {
         "id": "discord-597504144592338969",
@@ -93,9 +89,7 @@
         "points": 116,
         "eligible": 743,
         "ratio": 0.8721804511278195,
-        "rank": 9,
-        "old_rank": 8,
-        "old_rank_diff": -1
+        "rank": 9
     },
     {
         "id": "discord-806975243724783646",
