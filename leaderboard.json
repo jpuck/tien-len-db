@@ -13,10 +13,10 @@
         "id": "discord-708836607196790826",
         "username": "CraigCraig",
         "wins": 49,
-        "games": 129,
+        "games": 130,
         "points": 202,
-        "eligible": 590,
-        "ratio": 1.565891472868217,
+        "eligible": 593,
+        "ratio": 1.5538461538461539,
         "rank": 2
     },
     {
@@ -33,10 +33,10 @@
         "id": "discord-458751755447042059",
         "username": "jpuck",
         "wins": 52,
-        "games": 224,
+        "games": 225,
         "points": 245,
-        "eligible": 1105,
-        "ratio": 1.09375,
+        "eligible": 1108,
+        "ratio": 1.0888888888888888,
         "rank": 4
     },
     {
@@ -52,11 +52,11 @@
     {
         "id": "discord-634397877883371520",
         "username": "Smoghog",
-        "wins": 16,
-        "games": 95,
-        "points": 94,
-        "eligible": 557,
-        "ratio": 0.9894736842105263,
+        "wins": 17,
+        "games": 96,
+        "points": 97,
+        "eligible": 560,
+        "ratio": 1.0104166666666667,
         "rank": 6
     },
     {
