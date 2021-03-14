@@ -1,0 +1,30 @@
+{
+    "game": {
+        "id": "a1f7ba7aaa0cff245b62bcdfefe943f231a801aa",
+        "table": {
+            "id": "e4ca410d812b0ac6c455f86702e3a1292ef4b9cf",
+            "name": "Pi Day"
+        },
+        "winner": {
+            "id": "c630c3c4ac196519208eb42ddf6059fe4769b246",
+            "username": "Lee"
+        },
+        "losers": [
+            {
+                "id": "discord-458751755447042059",
+                "username": "jpuck",
+                "bot": false
+            },
+            {
+                "id": "discord-708836607196790826",
+                "username": "CraigCraig",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2021-03-14T04:17:42.079Z",
+    "submitted_by": {
+        "id": "c630c3c4ac196519208eb42ddf6059fe4769b246",
+        "username": "Lee"
+    }
+}
