@@ -58,18 +58,18 @@
     "discord-708836607196790826": {
         "id": "discord-708836607196790826",
         "username": "CraigCraig",
-        "wins": 49,
-        "games": 131,
-        "points": 202,
-        "eligible": 596
+        "wins": 52,
+        "games": 137,
+        "points": 211,
+        "eligible": 614
     },
     "discord-458751755447042059": {
         "id": "discord-458751755447042059",
         "username": "jpuck",
-        "wins": 52,
-        "games": 226,
-        "points": 245,
-        "eligible": 1111
+        "wins": 55,
+        "games": 232,
+        "points": 254,
+        "eligible": 1129
     },
     "discord-525136093998350346": {
         "id": "discord-525136093998350346",
@@ -118,5 +118,21 @@
         "games": 55,
         "points": 49,
         "eligible": 307
+    },
+    "c630c3c4ac196519208eb42ddf6059fe4769b246": {
+        "id": "c630c3c4ac196519208eb42ddf6059fe4769b246",
+        "username": "Lee",
+        "wins": 0,
+        "games": 6,
+        "points": 0,
+        "eligible": 18
+    },
+    "02781c03294cd1ce1c713c8ad672768b90a6da74": {
+        "id": "02781c03294cd1ce1c713c8ad672768b90a6da74",
+        "username": "Botty McBotface",
+        "wins": 0,
+        "games": 2,
+        "points": 0,
+        "eligible": 6
     }
 }
