@@ -12,11 +12,11 @@
     {
         "id": "discord-708836607196790826",
         "username": "CraigCraig",
-        "wins": 52,
-        "games": 138,
-        "points": 211,
-        "eligible": 618,
-        "ratio": 1.5289855072463767,
+        "wins": 53,
+        "games": 139,
+        "points": 215,
+        "eligible": 622,
+        "ratio": 1.5467625899280575,
         "rank": 2
     },
     {
@@ -33,10 +33,10 @@
         "id": "discord-458751755447042059",
         "username": "jpuck",
         "wins": 55,
-        "games": 233,
+        "games": 234,
         "points": 254,
-        "eligible": 1133,
-        "ratio": 1.090128755364807,
+        "eligible": 1137,
+        "ratio": 1.0854700854700854,
         "rank": 4
     },
     {
@@ -53,10 +53,10 @@
         "id": "discord-634397877883371520",
         "username": "Smoghog",
         "wins": 19,
-        "games": 104,
+        "games": 105,
         "points": 104,
-        "eligible": 585,
-        "ratio": 1,
+        "eligible": 589,
+        "ratio": 0.9904761904761905,
         "rank": 6
     },
     {
@@ -77,21 +77,17 @@
         "points": 116,
         "eligible": 743,
         "ratio": 0.8721804511278195,
-        "rank": 8,
-        "old_rank": 9,
-        "old_rank_diff": 1
+        "rank": 8
     },
     {
         "id": "discord-525136093998350346",
         "username": "RoboMoti",
         "wins": 24,
-        "games": 142,
+        "games": 143,
         "points": 123,
-        "eligible": 754,
-        "ratio": 0.8661971830985915,
-        "rank": 9,
-        "old_rank": 8,
-        "old_rank_diff": -1
+        "eligible": 758,
+        "ratio": 0.8601398601398601,
+        "rank": 9
     },
     {
         "id": "discord-806975243724783646",
