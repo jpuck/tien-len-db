@@ -1,0 +1,41 @@
+{
+    "game": {
+        "id": "247edab76cda15eb7b60b8b87b8f77b1af47adeb",
+        "table": {
+            "id": "54df8f6b5797c407a9e0d343745d50e99e9f7e8a",
+            "name": "Sprungtime"
+        },
+        "winner": {
+            "id": "discord-708836607196790826",
+            "username": "CraigCraig"
+        },
+        "losers": [
+            {
+                "id": "5d1cdbcdf38ba96ee688ceb33b646a8c4bea957e",
+                "username": "Dick Wreckard",
+                "bot": false
+            },
+            {
+                "id": "discord-458751755447042059",
+                "username": "jpuck",
+                "bot": false
+            },
+            {
+                "id": "discord-597504144592338969",
+                "username": "miek",
+                "bot": false
+            },
+            {
+                "id": "discord-634397877883371520",
+                "username": "Smoghog",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2021-03-21T04:47:22.369Z",
+    "submitted_by": {
+        "id": "discord-708836607196790826",
+        "username": "CraigCraig",
+        "avatar_url": null
+    }
+}
