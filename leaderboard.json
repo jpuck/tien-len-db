@@ -13,10 +13,10 @@
         "id": "discord-708836607196790826",
         "username": "CraigCraig",
         "wins": 53,
-        "games": 139,
+        "games": 140,
         "points": 215,
-        "eligible": 622,
-        "ratio": 1.5467625899280575,
+        "eligible": 627,
+        "ratio": 1.5357142857142858,
         "rank": 2
     },
     {
@@ -33,10 +33,10 @@
         "id": "discord-458751755447042059",
         "username": "jpuck",
         "wins": 55,
-        "games": 234,
+        "games": 235,
         "points": 254,
-        "eligible": 1137,
-        "ratio": 1.0854700854700854,
+        "eligible": 1142,
+        "ratio": 1.0808510638297872,
         "rank": 4
     },
     {
@@ -53,10 +53,10 @@
         "id": "discord-634397877883371520",
         "username": "Smoghog",
         "wins": 19,
-        "games": 105,
+        "games": 106,
         "points": 104,
-        "eligible": 589,
-        "ratio": 0.9904761904761905,
+        "eligible": 594,
+        "ratio": 0.9811320754716981,
         "rank": 6
     },
     {
@@ -70,24 +70,28 @@
         "rank": 7
     },
     {
+        "id": "discord-525136093998350346",
+        "username": "RoboMoti",
+        "wins": 25,
+        "games": 144,
+        "points": 128,
+        "eligible": 763,
+        "ratio": 0.8888888888888888,
+        "rank": 8,
+        "old_rank": 9,
+        "old_rank_diff": 1
+    },
+    {
         "id": "discord-597504144592338969",
         "username": "miek",
         "wins": 23,
-        "games": 133,
+        "games": 134,
         "points": 116,
-        "eligible": 743,
-        "ratio": 0.8721804511278195,
-        "rank": 8
-    },
-    {
-        "id": "discord-525136093998350346",
-        "username": "RoboMoti",
-        "wins": 24,
-        "games": 143,
-        "points": 123,
-        "eligible": 758,
-        "ratio": 0.8601398601398601,
-        "rank": 9
+        "eligible": 748,
+        "ratio": 0.8656716417910447,
+        "rank": 9,
+        "old_rank": 8,
+        "old_rank_diff": -1
     },
     {
         "id": "discord-806975243724783646",
