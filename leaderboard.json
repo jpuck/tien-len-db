@@ -2,11 +2,11 @@
     {
         "id": "discord-188033708471615489",
         "username": "Jer",
-        "wins": 3,
-        "games": 7,
-        "points": 13,
-        "eligible": 32,
-        "ratio": 1.8571428571428572,
+        "wins": 4,
+        "games": 8,
+        "points": 18,
+        "eligible": 37,
+        "ratio": 2.25,
         "rank": 1
     },
     {
@@ -33,10 +33,10 @@
         "id": "discord-708836607196790826",
         "username": "CraigCraig",
         "wins": 54,
-        "games": 151,
+        "games": 152,
         "points": 220,
-        "eligible": 680,
-        "ratio": 1.4569536423841059,
+        "eligible": 685,
+        "ratio": 1.4473684210526316,
         "rank": 4
     },
     {
@@ -53,10 +53,10 @@
         "id": "discord-458751755447042059",
         "username": "jpuck",
         "wins": 58,
-        "games": 242,
+        "games": 243,
         "points": 269,
-        "eligible": 1176,
-        "ratio": 1.1115702479338843,
+        "eligible": 1181,
+        "ratio": 1.1069958847736625,
         "rank": 6
     },
     {
@@ -103,10 +103,10 @@
         "id": "discord-597504144592338969",
         "username": "miek",
         "wins": 25,
-        "games": 147,
+        "games": 148,
         "points": 126,
-        "eligible": 810,
-        "ratio": 0.8571428571428571,
+        "eligible": 815,
+        "ratio": 0.8513513513513513,
         "rank": 11
     },
     {
@@ -120,16 +120,6 @@
         "rank": 12
     },
     {
-        "id": "discord-176013966387052544",
-        "username": "depots",
-        "wins": 1,
-        "games": 7,
-        "points": 5,
-        "eligible": 32,
-        "ratio": 0.7142857142857143,
-        "rank": 13
-    },
-    {
         "id": "real Jeremy",
         "username": "Jeremy",
         "wins": 3,
@@ -137,7 +127,21 @@
         "points": 12,
         "eligible": 68,
         "ratio": 0.7058823529411765,
-        "rank": 14
+        "rank": 13,
+        "old_rank": 14,
+        "old_rank_diff": 1
+    },
+    {
+        "id": "discord-176013966387052544",
+        "username": "depots",
+        "wins": 1,
+        "games": 8,
+        "points": 5,
+        "eligible": 37,
+        "ratio": 0.625,
+        "rank": 14,
+        "old_rank": 13,
+        "old_rank_diff": -1
     },
     {
         "id": "discord-151329021374889984",
