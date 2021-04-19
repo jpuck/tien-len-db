@@ -1,13 +1,15 @@
 [
     {
-        "id": "discord-188033708471615489",
-        "username": "Jer",
+        "id": "discord-189078918987382784",
+        "username": "danimal",
         "wins": 1,
         "games": 2,
         "points": 4,
         "eligible": 9,
         "ratio": 2,
-        "rank": 1
+        "rank": 1,
+        "old_rank": null,
+        "old_rank_diff": null
     },
     {
         "id": "discord-328633012088602624",
@@ -38,6 +40,18 @@
         "eligible": 16,
         "ratio": 1.3333333333333333,
         "rank": 4
+    },
+    {
+        "id": "discord-188033708471615489",
+        "username": "Jer",
+        "wins": 1,
+        "games": 3,
+        "points": 4,
+        "eligible": 13,
+        "ratio": 1.3333333333333333,
+        "rank": 4,
+        "old_rank": 1,
+        "old_rank_diff": -3
     },
     {
         "id": "discord-458751755447042059",
@@ -83,10 +97,10 @@
         "id": "discord-597504144592338969",
         "username": "miek",
         "wins": 25,
-        "games": 142,
+        "games": 143,
         "points": 126,
-        "eligible": 787,
-        "ratio": 0.8873239436619719,
+        "eligible": 791,
+        "ratio": 0.8811188811188811,
         "rank": 9
     },
     {
