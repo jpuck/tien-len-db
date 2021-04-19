@@ -87,9 +87,7 @@
         "points": 126,
         "eligible": 787,
         "ratio": 0.8873239436619719,
-        "rank": 9,
-        "old_rank": 10,
-        "old_rank_diff": 1
+        "rank": 9
     },
     {
         "id": "discord-525136093998350346",
@@ -99,9 +97,7 @@
         "points": 132,
         "eligible": 797,
         "ratio": 0.8741721854304636,
-        "rank": 10,
-        "old_rank": 9,
-        "old_rank_diff": -1
+        "rank": 10
     },
     {
         "id": "discord-806975243724783646",
