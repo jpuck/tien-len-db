@@ -35,17 +35,17 @@
         "id": "discord-597504144592338969",
         "username": "miek",
         "wins": 24,
-        "games": 140,
+        "games": 141,
         "points": 121,
-        "eligible": 778
+        "eligible": 782
     },
     "discord-188102500870520832": {
         "id": "discord-188102500870520832",
         "username": "ottonomous",
         "wins": 21,
-        "games": 114,
+        "games": 115,
         "points": 120,
-        "eligible": 660
+        "eligible": 664
     },
     "discord-806975243724783646": {
         "id": "discord-806975243724783646",
@@ -126,5 +126,21 @@
         "games": 2,
         "points": 0,
         "eligible": 6
+    },
+    "discord-188033708471615489": {
+        "id": "discord-188033708471615489",
+        "username": "Jer",
+        "wins": 1,
+        "games": 1,
+        "points": 4,
+        "eligible": 4
+    },
+    "discord-176013966387052544": {
+        "id": "discord-176013966387052544",
+        "username": "depots",
+        "wins": 0,
+        "games": 1,
+        "points": 0,
+        "eligible": 4
     }
 }
