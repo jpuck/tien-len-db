@@ -1,0 +1,46 @@
+{
+    "game": {
+        "id": "958c7ba23867cd133e8e35e53c728fbbdb6687ff",
+        "table": {
+            "id": "81b06facd90fe7a6e9bbd9cee59736a79105b7be",
+            "name": "poop"
+        },
+        "winner": {
+            "id": "discord-187959041518075904",
+            "username": "QuestionableDan"
+        },
+        "losers": [
+            {
+                "id": "discord-176013966387052544",
+                "username": "depots",
+                "bot": false
+            },
+            {
+                "id": "discord-188033708471615489",
+                "username": "Jer",
+                "bot": false
+            },
+            {
+                "id": "discord-188102500870520832",
+                "username": "ottonomous",
+                "bot": false
+            },
+            {
+                "id": "discord-189078918987382784",
+                "username": "danimal",
+                "bot": false
+            },
+            {
+                "id": "discord-597504144592338969",
+                "username": "miek",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2021-04-19T01:22:37.724Z",
+    "submitted_by": {
+        "id": "discord-188102500870520832",
+        "username": "ottonomous",
+        "avatar_url": "https://cdn.discordapp.com/avatars/188102500870520832/19b5e1bc512276c40389aa1cb2534fbd"
+    }
+}
