@@ -23,29 +23,21 @@
         "points": 6,
         "eligible": 65
     },
-    "real Jeremy": {
-        "id": "real Jeremy",
-        "username": "Jeremy",
-        "wins": 3,
-        "games": 17,
-        "points": 12,
-        "eligible": 68
-    },
     "discord-597504144592338969": {
         "id": "discord-597504144592338969",
         "username": "miek",
-        "wins": 25,
-        "games": 148,
-        "points": 126,
-        "eligible": 815
+        "wins": 32,
+        "games": 173,
+        "points": 162,
+        "eligible": 935
     },
     "discord-188102500870520832": {
         "id": "discord-188102500870520832",
         "username": "ottonomous",
-        "wins": 21,
-        "games": 116,
-        "points": 120,
-        "eligible": 669
+        "wins": 22,
+        "games": 124,
+        "points": 124,
+        "eligible": 706
     },
     "discord-806975243724783646": {
         "id": "discord-806975243724783646",
@@ -58,18 +50,18 @@
     "discord-708836607196790826": {
         "id": "discord-708836607196790826",
         "username": "CraigCraig",
-        "wins": 54,
-        "games": 152,
-        "points": 220,
-        "eligible": 685
+        "wins": 58,
+        "games": 169,
+        "points": 239,
+        "eligible": 768
     },
     "discord-458751755447042059": {
         "id": "discord-458751755447042059",
         "username": "jpuck",
-        "wins": 58,
-        "games": 243,
-        "points": 269,
-        "eligible": 1181
+        "wins": 61,
+        "games": 252,
+        "points": 284,
+        "eligible": 1226
     },
     "discord-525136093998350346": {
         "id": "discord-525136093998350346",
@@ -130,25 +122,33 @@
     "discord-188033708471615489": {
         "id": "discord-188033708471615489",
         "username": "Jer",
-        "wins": 4,
-        "games": 8,
-        "points": 18,
-        "eligible": 37
+        "wins": 14,
+        "games": 50,
+        "points": 62,
+        "eligible": 225
     },
     "discord-176013966387052544": {
         "id": "discord-176013966387052544",
         "username": "depots",
-        "wins": 1,
-        "games": 8,
-        "points": 5,
-        "eligible": 37
+        "wins": 2,
+        "games": 33,
+        "points": 9,
+        "eligible": 157
     },
     "discord-189078918987382784": {
         "id": "discord-189078918987382784",
         "username": "danimal",
-        "wins": 2,
-        "games": 5,
-        "points": 9,
-        "eligible": 24
+        "wins": 3,
+        "games": 16,
+        "points": 13,
+        "eligible": 79
+    },
+    "discord-187959041518075904": {
+        "id": "discord-187959041518075904",
+        "username": "QuestionableDan",
+        "wins": 1,
+        "games": 2,
+        "points": 6,
+        "eligible": 12
     }
 }
