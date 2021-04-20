@@ -15,6 +15,12 @@ If for some reason a claim is missing, then you can still commit the remaining c
 node scripts/conduct-census.js --no-unanimous
 ```
 
+If you want to generate the leaderboard without broadcasting diffs in Discord, use `--no-announce`
+
+```
+node scripts/create-leaderboard.js --no-announce
+```
+
 ## .env
 
 There's no local .env loader yet for any of the scripts, so you'll need to source that in your shell to get it to work.

@@ -4,6 +4,7 @@ const { rank } = require('./shared/ranker')
 const { diff } = require('./shared/differ')
 const users = require('./shared/users')
 const LEADERBOARD_FILENAME = './leaderboard.json'
+const ANNOUNCE = process.argv.includes('--no-announce') ? false : true
 
 const getLeaderboard = () => {
     return JSON.parse(fs.readFileSync(LEADERBOARD_FILENAME, 'utf8'))
@@ -147,8 +148,10 @@ const announceInDiscord = async news => {
     const news = diff(old, leaderboard)
 
     // emit diff events
-    const response = await announceInDiscord(news)
-    console.log(response)
+    if (ANNOUNCE) {
+        const response = await announceInDiscord(news)
+        console.log(response)
+    }
 
     // save new leaderboard
     saveLeaderboard(leaderboard)

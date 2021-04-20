@@ -1,3 +1,5 @@
+const MINIMUM_NUMBER_OF_GAMES_TO_GET_ON_LEADERBOARD = 10;
+
 const applyRank = players => {
     let rank = 0
     let ratio = undefined
@@ -28,6 +30,7 @@ module.exports.rank = players => {
     return applyRank(
         players
             .filter(player => player.points > 0)
+            .filter(player => player.games >= MINIMUM_NUMBER_OF_GAMES_TO_GET_ON_LEADERBOARD)
             .map(calculateRatio)
             .sort(sortByRatio)
     )
