@@ -1,0 +1,31 @@
+{
+    "game": {
+        "id": "b9d6c5a42796918940ad2d4707b6e5e058e6cb16",
+        "table": {
+            "id": "369f9386c5529a7c8105fead42f6d7b96e248ef2",
+            "name": "caaards"
+        },
+        "winner": {
+            "id": "discord-597504144592338969",
+            "username": "miek"
+        },
+        "losers": [
+            {
+                "id": "05f19022174c3409f5c3e326a7b5af7807de5f3a",
+                "username": "Mr. Lahey",
+                "bot": false
+            },
+            {
+                "id": "discord-458751755447042059",
+                "username": "jpuck",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2021-06-06T03:49:29.425Z",
+    "submitted_by": {
+        "id": "discord-458751755447042059",
+        "username": "jpuck",
+        "avatar_url": "https://cdn.discordapp.com/avatars/458751755447042059/7eabed1f1aedde90b49d78b286b1a4b0"
+    }
+}
