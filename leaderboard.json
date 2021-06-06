@@ -22,11 +22,11 @@
     {
         "id": "discord-458751755447042059",
         "username": "jpuck",
-        "wins": 61,
-        "games": 256,
-        "points": 284,
-        "eligible": 1238,
-        "ratio": 1.109375,
+        "wins": 62,
+        "games": 257,
+        "points": 287,
+        "eligible": 1241,
+        "ratio": 1.1167315175097277,
         "rank": 3
     },
     {
@@ -53,10 +53,10 @@
         "id": "discord-597504144592338969",
         "username": "miek",
         "wins": 34,
-        "games": 177,
+        "games": 178,
         "points": 168,
-        "eligible": 947,
-        "ratio": 0.9491525423728814,
+        "eligible": 950,
+        "ratio": 0.9438202247191011,
         "rank": 6
     },
     {
@@ -83,10 +83,10 @@
         "id": "discord-806975243724783646",
         "username": "dirkish",
         "wins": 24,
-        "games": 129,
+        "games": 130,
         "points": 109,
-        "eligible": 637,
-        "ratio": 0.8449612403100775,
+        "eligible": 640,
+        "ratio": 0.8384615384615385,
         "rank": 9
     },
     {
