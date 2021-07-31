@@ -42,10 +42,10 @@
     "discord-806975243724783646": {
         "id": "discord-806975243724783646",
         "username": "dirkish",
-        "wins": 24,
-        "games": 132,
-        "points": 109,
-        "eligible": 646
+        "wins": 25,
+        "games": 138,
+        "points": 112,
+        "eligible": 664
     },
     "discord-708836607196790826": {
         "id": "discord-708836607196790826",
@@ -150,13 +150,5 @@
         "games": 2,
         "points": 6,
         "eligible": 12
-    },
-    "05f19022174c3409f5c3e326a7b5af7807de5f3a": {
-        "id": "05f19022174c3409f5c3e326a7b5af7807de5f3a",
-        "username": "Mr. Lahey",
-        "wins": 1,
-        "games": 6,
-        "points": 3,
-        "eligible": 18
     }
 }
