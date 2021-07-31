@@ -26,18 +26,18 @@
     "discord-597504144592338969": {
         "id": "discord-597504144592338969",
         "username": "miek",
-        "wins": 34,
-        "games": 180,
-        "points": 168,
-        "eligible": 956
+        "wins": 35,
+        "games": 190,
+        "points": 171,
+        "eligible": 996
     },
     "discord-188102500870520832": {
         "id": "discord-188102500870520832",
         "username": "ottonomous",
-        "wins": 22,
-        "games": 124,
-        "points": 124,
-        "eligible": 706
+        "wins": 23,
+        "games": 128,
+        "points": 130,
+        "eligible": 728
     },
     "discord-806975243724783646": {
         "id": "discord-806975243724783646",
@@ -50,26 +50,26 @@
     "discord-708836607196790826": {
         "id": "discord-708836607196790826",
         "username": "CraigCraig",
-        "wins": 58,
-        "games": 169,
-        "points": 239,
-        "eligible": 768
+        "wins": 60,
+        "games": 173,
+        "points": 250,
+        "eligible": 790
     },
     "discord-458751755447042059": {
         "id": "discord-458751755447042059",
         "username": "jpuck",
-        "wins": 64,
-        "games": 259,
-        "points": 293,
-        "eligible": 1247
+        "wins": 69,
+        "games": 269,
+        "points": 310,
+        "eligible": 1287
     },
     "discord-525136093998350346": {
         "id": "discord-525136093998350346",
         "username": "RoboMoti",
         "wins": 26,
-        "games": 151,
+        "games": 155,
         "points": 132,
-        "eligible": 797
+        "eligible": 819
     },
     "discord-151329021374889984": {
         "id": "discord-151329021374889984",
@@ -91,9 +91,9 @@
         "id": "discord-634397877883371520",
         "username": "Smoghog",
         "wins": 20,
-        "games": 113,
+        "games": 117,
         "points": 109,
-        "eligible": 628
+        "eligible": 650
     },
     "discord-169194245578555392": {
         "id": "discord-169194245578555392",
@@ -150,5 +150,13 @@
         "games": 2,
         "points": 6,
         "eligible": 12
+    },
+    "05f19022174c3409f5c3e326a7b5af7807de5f3a": {
+        "id": "05f19022174c3409f5c3e326a7b5af7807de5f3a",
+        "username": "Mr. Lahey",
+        "wins": 1,
+        "games": 6,
+        "points": 3,
+        "eligible": 18
     }
 }
