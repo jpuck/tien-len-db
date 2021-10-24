@@ -58,18 +58,18 @@
     "discord-458751755447042059": {
         "id": "discord-458751755447042059",
         "username": "jpuck",
-        "wins": 69,
-        "games": 272,
-        "points": 310,
-        "eligible": 1298
+        "wins": 70,
+        "games": 273,
+        "points": 313,
+        "eligible": 1301
     },
     "discord-525136093998350346": {
         "id": "discord-525136093998350346",
         "username": "RoboMoti",
         "wins": 27,
-        "games": 158,
+        "games": 159,
         "points": 136,
-        "eligible": 830
+        "eligible": 833
     },
     "discord-151329021374889984": {
         "id": "discord-151329021374889984",
@@ -155,8 +155,8 @@
         "id": "313c21bd9162d969e5745bd1c9feb8d090040687",
         "username": "Shap Diesel",
         "wins": 1,
-        "games": 3,
+        "games": 4,
         "points": 3,
-        "eligible": 11
+        "eligible": 14
     }
 }
