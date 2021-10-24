@@ -51,25 +51,25 @@
         "id": "discord-708836607196790826",
         "username": "CraigCraig",
         "wins": 61,
-        "games": 175,
+        "games": 179,
         "points": 254,
-        "eligible": 798
+        "eligible": 814
     },
     "discord-458751755447042059": {
         "id": "discord-458751755447042059",
         "username": "jpuck",
-        "wins": 70,
-        "games": 273,
-        "points": 313,
-        "eligible": 1301
+        "wins": 75,
+        "games": 281,
+        "points": 330,
+        "eligible": 1329
     },
     "discord-525136093998350346": {
         "id": "discord-525136093998350346",
         "username": "RoboMoti",
         "wins": 27,
-        "games": 159,
+        "games": 167,
         "points": 136,
-        "eligible": 833
+        "eligible": 861
     },
     "discord-151329021374889984": {
         "id": "discord-151329021374889984",
@@ -154,9 +154,9 @@
     "313c21bd9162d969e5745bd1c9feb8d090040687": {
         "id": "313c21bd9162d969e5745bd1c9feb8d090040687",
         "username": "Shap Diesel",
-        "wins": 1,
-        "games": 4,
-        "points": 3,
-        "eligible": 14
+        "wins": 4,
+        "games": 12,
+        "points": 14,
+        "eligible": 42
     }
 }
