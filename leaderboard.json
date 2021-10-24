@@ -37,9 +37,7 @@
         "points": 14,
         "eligible": 42,
         "ratio": 1.1666666666666667,
-        "rank": 4,
-        "old_rank": null,
-        "old_rank_diff": null
+        "rank": 4
     },
     {
         "id": "discord-188102500870520832",
@@ -49,9 +47,7 @@
         "points": 130,
         "eligible": 728,
         "ratio": 1.015625,
-        "rank": 5,
-        "old_rank": 4,
-        "old_rank_diff": -1
+        "rank": 5
     },
     {
         "id": "discord-634397877883371520",
@@ -61,9 +57,7 @@
         "points": 109,
         "eligible": 650,
         "ratio": 0.9316239316239316,
-        "rank": 6,
-        "old_rank": 5,
-        "old_rank_diff": -1
+        "rank": 6
     },
     {
         "id": "discord-597504144592338969",
@@ -73,9 +67,7 @@
         "points": 171,
         "eligible": 996,
         "ratio": 0.9,
-        "rank": 7,
-        "old_rank": 6,
-        "old_rank_diff": -1
+        "rank": 7
     },
     {
         "id": "discord-239239825989828608",
@@ -85,9 +77,7 @@
         "points": 49,
         "eligible": 307,
         "ratio": 0.8909090909090909,
-        "rank": 8,
-        "old_rank": 7,
-        "old_rank_diff": -1
+        "rank": 8
     },
     {
         "id": "discord-525136093998350346",
@@ -97,9 +87,7 @@
         "points": 136,
         "eligible": 861,
         "ratio": 0.8143712574850299,
-        "rank": 9,
-        "old_rank": 8,
-        "old_rank_diff": -1
+        "rank": 9
     },
     {
         "id": "discord-189078918987382784",
@@ -109,9 +97,7 @@
         "points": 13,
         "eligible": 79,
         "ratio": 0.8125,
-        "rank": 10,
-        "old_rank": 9,
-        "old_rank_diff": -1
+        "rank": 10
     },
     {
         "id": "discord-806975243724783646",
@@ -121,9 +107,7 @@
         "points": 112,
         "eligible": 664,
         "ratio": 0.8115942028985508,
-        "rank": 11,
-        "old_rank": 10,
-        "old_rank_diff": -1
+        "rank": 11
     },
     {
         "id": "discord-151329021374889984",
@@ -133,9 +117,7 @@
         "points": 29,
         "eligible": 354,
         "ratio": 0.5471698113207547,
-        "rank": 12,
-        "old_rank": 11,
-        "old_rank_diff": -1
+        "rank": 12
     },
     {
         "id": "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6",
@@ -145,9 +127,7 @@
         "points": 6,
         "eligible": 65,
         "ratio": 0.5454545454545454,
-        "rank": 13,
-        "old_rank": 12,
-        "old_rank_diff": -1
+        "rank": 13
     },
     {
         "id": "discord-176013966387052544",
@@ -157,8 +137,6 @@
         "points": 9,
         "eligible": 157,
         "ratio": 0.2727272727272727,
-        "rank": 14,
-        "old_rank": 13,
-        "old_rank_diff": -1
+        "rank": 14
     }
 ]
