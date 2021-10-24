@@ -1,0 +1,31 @@
+{
+    "game": {
+        "id": "02e74e6bdfb0dc03654c0f0004ffeafa6ce64d98",
+        "table": {
+            "id": "d6c41934d70c9d3f3edd67889ea8e236275bd9b2",
+            "name": "Tennessee 🥃"
+        },
+        "winner": {
+            "id": "313c21bd9162d969e5745bd1c9feb8d090040687",
+            "username": "Shap Diesel"
+        },
+        "losers": [
+            {
+                "id": "discord-458751755447042059",
+                "username": "jpuck",
+                "bot": false
+            },
+            {
+                "id": "discord-525136093998350346",
+                "username": "RoboMoti",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2021-10-24T06:53:55.228Z",
+    "submitted_by": {
+        "id": "discord-458751755447042059",
+        "username": "jpuck",
+        "avatar_url": "https://cdn.discordapp.com/avatars/458751755447042059/7eabed1f1aedde90b49d78b286b1a4b0"
+    }
+}
