@@ -13,25 +13,21 @@
         "id": "discord-188033708471615489",
         "username": "Jer",
         "wins": 16,
-        "games": 57,
+        "games": 58,
         "points": 70,
-        "eligible": 253,
-        "ratio": 1.2280701754385965,
-        "rank": 2,
-        "old_rank": 3,
-        "old_rank_diff": 1
+        "eligible": 257,
+        "ratio": 1.206896551724138,
+        "rank": 2
     },
     {
         "id": "discord-458751755447042059",
         "username": "jpuck",
         "wins": 78,
-        "games": 288,
+        "games": 289,
         "points": 342,
-        "eligible": 1357,
-        "ratio": 1.1875,
-        "rank": 3,
-        "old_rank": 2,
-        "old_rank_diff": -1
+        "eligible": 1361,
+        "ratio": 1.1833910034602075,
+        "rank": 3
     },
     {
         "id": "313c21bd9162d969e5745bd1c9feb8d090040687",
@@ -64,6 +60,18 @@
         "rank": 6
     },
     {
+        "id": "discord-597504144592338969",
+        "username": "miek",
+        "wins": 37,
+        "games": 198,
+        "points": 179,
+        "eligible": 1028,
+        "ratio": 0.9040404040404041,
+        "rank": 7,
+        "old_rank": 8,
+        "old_rank_diff": 1
+    },
+    {
         "id": "discord-239239825989828608",
         "username": "Max",
         "wins": 10,
@@ -71,18 +79,6 @@
         "points": 49,
         "eligible": 307,
         "ratio": 0.8909090909090909,
-        "rank": 7,
-        "old_rank": 8,
-        "old_rank_diff": 1
-    },
-    {
-        "id": "discord-597504144592338969",
-        "username": "miek",
-        "wins": 36,
-        "games": 197,
-        "points": 175,
-        "eligible": 1024,
-        "ratio": 0.8883248730964467,
         "rank": 8,
         "old_rank": 7,
         "old_rank_diff": -1
@@ -111,10 +107,10 @@
         "id": "discord-525136093998350346",
         "username": "RoboMoti",
         "wins": 28,
-        "games": 174,
+        "games": 175,
         "points": 140,
-        "eligible": 889,
-        "ratio": 0.8045977011494253,
+        "eligible": 893,
+        "ratio": 0.8,
         "rank": 11
     },
     {
