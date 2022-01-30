@@ -12,22 +12,12 @@
     {
         "id": "discord-188033708471615489",
         "username": "Jer",
-        "wins": 14,
-        "games": 51,
-        "points": 62,
-        "eligible": 229,
-        "ratio": 1.2156862745098038,
+        "wins": 15,
+        "games": 52,
+        "points": 66,
+        "eligible": 233,
+        "ratio": 1.2692307692307692,
         "rank": 2
-    },
-    {
-        "id": "discord-458751755447042059",
-        "username": "jpuck",
-        "wins": 75,
-        "games": 282,
-        "points": 330,
-        "eligible": 1333,
-        "ratio": 1.1702127659574468,
-        "rank": 3
     },
     {
         "id": "313c21bd9162d969e5745bd1c9feb8d090040687",
@@ -37,7 +27,21 @@
         "points": 14,
         "eligible": 42,
         "ratio": 1.1666666666666667,
-        "rank": 4
+        "rank": 3,
+        "old_rank": 4,
+        "old_rank_diff": 1
+    },
+    {
+        "id": "discord-458751755447042059",
+        "username": "jpuck",
+        "wins": 75,
+        "games": 283,
+        "points": 330,
+        "eligible": 1337,
+        "ratio": 1.1660777385159011,
+        "rank": 4,
+        "old_rank": 3,
+        "old_rank_diff": -1
     },
     {
         "id": "discord-188102500870520832",
@@ -63,10 +67,10 @@
         "id": "discord-597504144592338969",
         "username": "miek",
         "wins": 36,
-        "games": 191,
+        "games": 192,
         "points": 175,
-        "eligible": 1000,
-        "ratio": 0.9162303664921466,
+        "eligible": 1004,
+        "ratio": 0.9114583333333334,
         "rank": 7
     },
     {
@@ -103,10 +107,10 @@
         "id": "discord-525136093998350346",
         "username": "RoboMoti",
         "wins": 27,
-        "games": 168,
+        "games": 169,
         "points": 136,
-        "eligible": 865,
-        "ratio": 0.8095238095238095,
+        "eligible": 869,
+        "ratio": 0.8047337278106509,
         "rank": 11
     },
     {
