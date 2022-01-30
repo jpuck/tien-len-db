@@ -10,24 +10,28 @@
         "rank": 1
     },
     {
+        "id": "discord-458751755447042059",
+        "username": "jpuck",
+        "wins": 79,
+        "games": 291,
+        "points": 346,
+        "eligible": 1369,
+        "ratio": 1.1890034364261168,
+        "rank": 2,
+        "old_rank": 3,
+        "old_rank_diff": 1
+    },
+    {
         "id": "discord-188033708471615489",
         "username": "Jer",
         "wins": 16,
-        "games": 59,
+        "games": 60,
         "points": 70,
-        "eligible": 261,
-        "ratio": 1.1864406779661016,
-        "rank": 2
-    },
-    {
-        "id": "discord-458751755447042059",
-        "username": "jpuck",
-        "wins": 78,
-        "games": 290,
-        "points": 342,
-        "eligible": 1365,
-        "ratio": 1.1793103448275861,
-        "rank": 3
+        "eligible": 265,
+        "ratio": 1.1666666666666667,
+        "rank": 3,
+        "old_rank": 2,
+        "old_rank_diff": -1
     },
     {
         "id": "313c21bd9162d969e5745bd1c9feb8d090040687",
@@ -37,7 +41,9 @@
         "points": 14,
         "eligible": 42,
         "ratio": 1.1666666666666667,
-        "rank": 4
+        "rank": 3,
+        "old_rank": 4,
+        "old_rank_diff": 1
     },
     {
         "id": "discord-188102500870520832",
@@ -47,7 +53,9 @@
         "points": 130,
         "eligible": 728,
         "ratio": 1.015625,
-        "rank": 5
+        "rank": 4,
+        "old_rank": 5,
+        "old_rank_diff": 1
     },
     {
         "id": "discord-634397877883371520",
@@ -57,17 +65,21 @@
         "points": 109,
         "eligible": 650,
         "ratio": 0.9316239316239316,
-        "rank": 6
+        "rank": 5,
+        "old_rank": 6,
+        "old_rank_diff": 1
     },
     {
         "id": "discord-597504144592338969",
         "username": "miek",
         "wins": 38,
-        "games": 199,
+        "games": 200,
         "points": 183,
-        "eligible": 1032,
-        "ratio": 0.9195979899497487,
-        "rank": 7
+        "eligible": 1036,
+        "ratio": 0.915,
+        "rank": 6,
+        "old_rank": 7,
+        "old_rank_diff": 1
     },
     {
         "id": "discord-239239825989828608",
@@ -77,7 +89,9 @@
         "points": 49,
         "eligible": 307,
         "ratio": 0.8909090909090909,
-        "rank": 8
+        "rank": 7,
+        "old_rank": 8,
+        "old_rank_diff": 1
     },
     {
         "id": "discord-189078918987382784",
@@ -87,7 +101,9 @@
         "points": 13,
         "eligible": 79,
         "ratio": 0.8125,
-        "rank": 9
+        "rank": 8,
+        "old_rank": 9,
+        "old_rank_diff": 1
     },
     {
         "id": "discord-806975243724783646",
@@ -97,17 +113,21 @@
         "points": 112,
         "eligible": 664,
         "ratio": 0.8115942028985508,
-        "rank": 10
+        "rank": 9,
+        "old_rank": 10,
+        "old_rank_diff": 1
     },
     {
         "id": "discord-525136093998350346",
         "username": "RoboMoti",
         "wins": 28,
-        "games": 176,
+        "games": 177,
         "points": 140,
-        "eligible": 897,
-        "ratio": 0.7954545454545454,
-        "rank": 11
+        "eligible": 901,
+        "ratio": 0.7909604519774012,
+        "rank": 10,
+        "old_rank": 11,
+        "old_rank_diff": 1
     },
     {
         "id": "discord-151329021374889984",
@@ -117,7 +137,9 @@
         "points": 29,
         "eligible": 354,
         "ratio": 0.5471698113207547,
-        "rank": 12
+        "rank": 11,
+        "old_rank": 12,
+        "old_rank_diff": 1
     },
     {
         "id": "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6",
@@ -127,7 +149,9 @@
         "points": 6,
         "eligible": 65,
         "ratio": 0.5454545454545454,
-        "rank": 13
+        "rank": 12,
+        "old_rank": 13,
+        "old_rank_diff": 1
     },
     {
         "id": "discord-176013966387052544",
@@ -137,6 +161,8 @@
         "points": 9,
         "eligible": 157,
         "ratio": 0.2727272727272727,
-        "rank": 14
+        "rank": 13,
+        "old_rank": 14,
+        "old_rank_diff": 1
     }
 ]
