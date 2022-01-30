@@ -13,20 +13,20 @@
         "id": "discord-188033708471615489",
         "username": "Jer",
         "wins": 15,
-        "games": 54,
+        "games": 55,
         "points": 66,
-        "eligible": 241,
-        "ratio": 1.2222222222222223,
+        "eligible": 245,
+        "ratio": 1.2,
         "rank": 2
     },
     {
         "id": "discord-458751755447042059",
         "username": "jpuck",
         "wins": 77,
-        "games": 285,
+        "games": 286,
         "points": 338,
-        "eligible": 1345,
-        "ratio": 1.1859649122807017,
+        "eligible": 1349,
+        "ratio": 1.1818181818181819,
         "rank": 3
     },
     {
@@ -63,10 +63,10 @@
         "id": "discord-597504144592338969",
         "username": "miek",
         "wins": 36,
-        "games": 194,
+        "games": 195,
         "points": 175,
-        "eligible": 1012,
-        "ratio": 0.9020618556701031,
+        "eligible": 1016,
+        "ratio": 0.8974358974358975,
         "rank": 7
     },
     {
@@ -80,6 +80,18 @@
         "rank": 8
     },
     {
+        "id": "discord-525136093998350346",
+        "username": "RoboMoti",
+        "wins": 28,
+        "games": 172,
+        "points": 140,
+        "eligible": 881,
+        "ratio": 0.813953488372093,
+        "rank": 9,
+        "old_rank": 11,
+        "old_rank_diff": 2
+    },
+    {
         "id": "discord-189078918987382784",
         "username": "danimal",
         "wins": 3,
@@ -87,7 +99,9 @@
         "points": 13,
         "eligible": 79,
         "ratio": 0.8125,
-        "rank": 9
+        "rank": 10,
+        "old_rank": 9,
+        "old_rank_diff": -1
     },
     {
         "id": "discord-806975243724783646",
@@ -97,17 +111,9 @@
         "points": 112,
         "eligible": 664,
         "ratio": 0.8115942028985508,
-        "rank": 10
-    },
-    {
-        "id": "discord-525136093998350346",
-        "username": "RoboMoti",
-        "wins": 27,
-        "games": 171,
-        "points": 136,
-        "eligible": 877,
-        "ratio": 0.7953216374269005,
-        "rank": 11
+        "rank": 11,
+        "old_rank": 10,
+        "old_rank_diff": -1
     },
     {
         "id": "discord-151329021374889984",
