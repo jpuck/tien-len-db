@@ -12,14 +12,12 @@
     {
         "id": "discord-458751755447042059",
         "username": "jpuck",
-        "wins": 80,
-        "games": 298,
-        "points": 350,
-        "eligible": 1397,
-        "ratio": 1.174496644295302,
-        "rank": 2,
-        "old_rank": 3,
-        "old_rank_diff": 1
+        "wins": 81,
+        "games": 299,
+        "points": 354,
+        "eligible": 1401,
+        "ratio": 1.1839464882943145,
+        "rank": 2
     },
     {
         "id": "313c21bd9162d969e5745bd1c9feb8d090040687",
@@ -29,21 +27,17 @@
         "points": 14,
         "eligible": 42,
         "ratio": 1.1666666666666667,
-        "rank": 3,
-        "old_rank": 4,
-        "old_rank_diff": 1
+        "rank": 3
     },
     {
         "id": "discord-188033708471615489",
         "username": "Jer",
         "wins": 18,
-        "games": 67,
+        "games": 68,
         "points": 78,
-        "eligible": 293,
-        "ratio": 1.164179104477612,
-        "rank": 4,
-        "old_rank": 2,
-        "old_rank_diff": -2
+        "eligible": 297,
+        "ratio": 1.1470588235294117,
+        "rank": 4
     },
     {
         "id": "discord-188102500870520832",
@@ -69,10 +63,10 @@
         "id": "discord-597504144592338969",
         "username": "miek",
         "wins": 39,
-        "games": 207,
+        "games": 208,
         "points": 187,
-        "eligible": 1064,
-        "ratio": 0.9033816425120773,
+        "eligible": 1068,
+        "ratio": 0.8990384615384616,
         "rank": 7
     },
     {
@@ -89,13 +83,11 @@
         "id": "discord-525136093998350346",
         "username": "RoboMoti",
         "wins": 31,
-        "games": 184,
+        "games": 185,
         "points": 152,
-        "eligible": 929,
-        "ratio": 0.8260869565217391,
-        "rank": 9,
-        "old_rank": 11,
-        "old_rank_diff": 2
+        "eligible": 933,
+        "ratio": 0.8216216216216217,
+        "rank": 9
     },
     {
         "id": "discord-189078918987382784",
@@ -105,9 +97,7 @@
         "points": 13,
         "eligible": 79,
         "ratio": 0.8125,
-        "rank": 10,
-        "old_rank": 9,
-        "old_rank_diff": -1
+        "rank": 10
     },
     {
         "id": "discord-806975243724783646",
@@ -117,9 +107,7 @@
         "points": 112,
         "eligible": 664,
         "ratio": 0.8115942028985508,
-        "rank": 11,
-        "old_rank": 10,
-        "old_rank_diff": -1
+        "rank": 11
     },
     {
         "id": "discord-151329021374889984",
