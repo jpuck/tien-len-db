@@ -1,0 +1,51 @@
+{
+    "game": {
+        "id": "d1edb5a4145b4cd490b5234bf5314e475deb342a",
+        "table": {
+            "id": "5d1bdb345a565a4338dc8aca1eb721f1c42a1be3",
+            "name": "curl of the burl"
+        },
+        "winner": {
+            "id": "discord-458751755447042059",
+            "username": "jpuck"
+        },
+        "losers": [
+            {
+                "id": "discord-176013966387052544",
+                "username": "depots",
+                "bot": false
+            },
+            {
+                "id": "discord-187959041518075904",
+                "username": "QuestionableDan",
+                "bot": false
+            },
+            {
+                "id": "discord-188102500870520832",
+                "username": "ottonomous",
+                "bot": false
+            },
+            {
+                "id": "discord-188836082136252416",
+                "username": "Mosferatu",
+                "bot": false
+            },
+            {
+                "id": "discord-597504144592338969",
+                "username": "miek",
+                "bot": false
+            },
+            {
+                "id": "discord-708836607196790826",
+                "username": "CraigCraig",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2022-02-04T03:25:36.577Z",
+    "submitted_by": {
+        "id": "discord-597504144592338969",
+        "username": "miek",
+        "avatar_url": "https://cdn.discordapp.com/avatars/597504144592338969/8a9cd807ef330bb32a00df862f9e6738"
+    }
+}
