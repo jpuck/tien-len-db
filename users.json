@@ -27,17 +27,17 @@
         "id": "discord-597504144592338969",
         "username": "miek",
         "wins": 40,
-        "games": 210,
+        "games": 211,
         "points": 191,
-        "eligible": 1078
+        "eligible": 1084
     },
     "discord-188102500870520832": {
         "id": "discord-188102500870520832",
         "username": "ottonomous",
         "wins": 23,
-        "games": 129,
+        "games": 130,
         "points": 130,
-        "eligible": 734
+        "eligible": 740
     },
     "discord-806975243724783646": {
         "id": "discord-806975243724783646",
@@ -59,9 +59,9 @@
         "id": "discord-458751755447042059",
         "username": "jpuck",
         "wins": 81,
-        "games": 301,
+        "games": 302,
         "points": 354,
-        "eligible": 1411
+        "eligible": 1417
     },
     "discord-525136093998350346": {
         "id": "discord-525136093998350346",
@@ -131,9 +131,9 @@
         "id": "discord-176013966387052544",
         "username": "depots",
         "wins": 2,
-        "games": 34,
+        "games": 35,
         "points": 9,
-        "eligible": 163
+        "eligible": 169
     },
     "discord-189078918987382784": {
         "id": "discord-189078918987382784",
@@ -146,10 +146,10 @@
     "discord-187959041518075904": {
         "id": "discord-187959041518075904",
         "username": "QuestionableDan",
-        "wins": 2,
-        "games": 3,
-        "points": 12,
-        "eligible": 18
+        "wins": 3,
+        "games": 4,
+        "points": 18,
+        "eligible": 24
     },
     "313c21bd9162d969e5745bd1c9feb8d090040687": {
         "id": "313c21bd9162d969e5745bd1c9feb8d090040687",
@@ -163,8 +163,8 @@
         "id": "discord-188836082136252416",
         "username": "Mosferatu",
         "wins": 0,
-        "games": 1,
+        "games": 2,
         "points": 0,
-        "eligible": 6
+        "eligible": 12
     }
 }
