@@ -26,18 +26,18 @@
     "discord-597504144592338969": {
         "id": "discord-597504144592338969",
         "username": "miek",
-        "wins": 40,
-        "games": 211,
-        "points": 191,
-        "eligible": 1084
+        "wins": 41,
+        "games": 212,
+        "points": 198,
+        "eligible": 1091
     },
     "discord-188102500870520832": {
         "id": "discord-188102500870520832",
         "username": "ottonomous",
         "wins": 23,
-        "games": 130,
+        "games": 131,
         "points": 130,
-        "eligible": 740
+        "eligible": 747
     },
     "discord-806975243724783646": {
         "id": "discord-806975243724783646",
@@ -51,17 +51,17 @@
         "id": "discord-708836607196790826",
         "username": "CraigCraig",
         "wins": 61,
-        "games": 179,
+        "games": 180,
         "points": 254,
-        "eligible": 814
+        "eligible": 821
     },
     "discord-458751755447042059": {
         "id": "discord-458751755447042059",
         "username": "jpuck",
         "wins": 81,
-        "games": 302,
+        "games": 303,
         "points": 354,
-        "eligible": 1417
+        "eligible": 1424
     },
     "discord-525136093998350346": {
         "id": "discord-525136093998350346",
@@ -131,9 +131,9 @@
         "id": "discord-176013966387052544",
         "username": "depots",
         "wins": 2,
-        "games": 35,
+        "games": 36,
         "points": 9,
-        "eligible": 169
+        "eligible": 176
     },
     "discord-189078918987382784": {
         "id": "discord-189078918987382784",
@@ -147,9 +147,9 @@
         "id": "discord-187959041518075904",
         "username": "QuestionableDan",
         "wins": 3,
-        "games": 4,
+        "games": 5,
         "points": 18,
-        "eligible": 24
+        "eligible": 31
     },
     "313c21bd9162d969e5745bd1c9feb8d090040687": {
         "id": "313c21bd9162d969e5745bd1c9feb8d090040687",
@@ -163,8 +163,8 @@
         "id": "discord-188836082136252416",
         "username": "Mosferatu",
         "wins": 0,
-        "games": 2,
+        "games": 3,
         "points": 0,
-        "eligible": 12
+        "eligible": 19
     }
 }
