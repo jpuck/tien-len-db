@@ -1,0 +1,46 @@
+{
+    "game": {
+        "id": "974699ee2481a1fdef90f2a08b6fb35911d7677b",
+        "table": {
+            "id": "df9f89bddfd95c5d91c1a6e808c2a61eb3085198",
+            "name": "purple monkey dishwasher"
+        },
+        "winner": {
+            "id": "discord-176013966387052544",
+            "username": "depots"
+        },
+        "losers": [
+            {
+                "id": "discord-187959041518075904",
+                "username": "QuestionableDan",
+                "bot": true
+            },
+            {
+                "id": "discord-188033708471615489",
+                "username": "Jer",
+                "bot": false
+            },
+            {
+                "id": "discord-188102500870520832",
+                "username": "ottonomous",
+                "bot": false
+            },
+            {
+                "id": "discord-458751755447042059",
+                "username": "jpuck",
+                "bot": false
+            },
+            {
+                "id": "discord-597504144592338969",
+                "username": "miek",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2022-02-18T02:25:17.846Z",
+    "submitted_by": {
+        "id": "discord-187959041518075904",
+        "username": "QuestionableDan",
+        "avatar_url": "https://cdn.discordapp.com/avatars/187959041518075904/e730480931884e47a8f9fa394eda6729"
+    }
+}
