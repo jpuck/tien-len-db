@@ -13,20 +13,20 @@
         "id": "discord-187959041518075904",
         "username": "QuestionableDan",
         "wins": 3,
-        "games": 13,
+        "games": 14,
         "points": 18,
-        "eligible": 84,
-        "ratio": 1.3846153846153846,
+        "eligible": 89,
+        "ratio": 1.2857142857142858,
         "rank": 2
     },
     {
         "id": "discord-188033708471615489",
         "username": "Jer",
         "wins": 22,
-        "games": 78,
+        "games": 79,
         "points": 99,
-        "eligible": 342,
-        "ratio": 1.2692307692307692,
+        "eligible": 347,
+        "ratio": 1.2531645569620253,
         "rank": 3
     },
     {
@@ -63,10 +63,10 @@
         "id": "discord-188102500870520832",
         "username": "ottonomous",
         "wins": 24,
-        "games": 142,
+        "games": 143,
         "points": 136,
-        "eligible": 816,
-        "ratio": 0.9577464788732394,
+        "eligible": 821,
+        "ratio": 0.951048951048951,
         "rank": 7
     },
     {
@@ -83,10 +83,10 @@
         "id": "discord-597504144592338969",
         "username": "miek",
         "wins": 43,
-        "games": 230,
+        "games": 231,
         "points": 209,
-        "eligible": 1188,
-        "ratio": 0.908695652173913,
+        "eligible": 1193,
+        "ratio": 0.9047619047619048,
         "rank": 9
     },
     {
@@ -152,11 +152,11 @@
     {
         "id": "discord-176013966387052544",
         "username": "depots",
-        "wins": 3,
-        "games": 46,
-        "points": 15,
-        "eligible": 239,
-        "ratio": 0.32608695652173914,
+        "wins": 4,
+        "games": 47,
+        "points": 20,
+        "eligible": 244,
+        "ratio": 0.425531914893617,
         "rank": 16
     }
 ]
