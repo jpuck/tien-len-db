@@ -1,0 +1,41 @@
+{
+    "game": {
+        "id": "5a9353cc32280ef915058966baa4ecb4a450cf49",
+        "table": {
+            "id": "d5f36e65fcf904869d7126998c73defc3f720a39",
+            "name": "cardmageddon"
+        },
+        "winner": {
+            "id": "discord-188033708471615489",
+            "username": "Jer"
+        },
+        "losers": [
+            {
+                "id": "discord-176013966387052544",
+                "username": "depots",
+                "bot": false
+            },
+            {
+                "id": "discord-458751755447042059",
+                "username": "jpuck",
+                "bot": false
+            },
+            {
+                "id": "discord-597504144592338969",
+                "username": "miek",
+                "bot": false
+            },
+            {
+                "id": "discord-708836607196790826",
+                "username": "CraigCraig",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2022-04-03T04:26:19.198Z",
+    "submitted_by": {
+        "id": "discord-458751755447042059",
+        "username": "jpuck",
+        "avatar_url": "https://cdn.discordapp.com/avatars/458751755447042059/7eabed1f1aedde90b49d78b286b1a4b0"
+    }
+}
