@@ -2,11 +2,11 @@
     {
         "id": "discord-708836607196790826",
         "username": "CraigCraig",
-        "wins": 63,
-        "games": 190,
-        "points": 264,
-        "eligible": 877,
-        "ratio": 1.3894736842105264,
+        "wins": 64,
+        "games": 191,
+        "points": 269,
+        "eligible": 882,
+        "ratio": 1.4083769633507854,
         "rank": 1
     },
     {
@@ -30,24 +30,28 @@
         "rank": 3
     },
     {
-        "id": "discord-188033708471615489",
-        "username": "Jer",
-        "wins": 22,
-        "games": 82,
-        "points": 99,
-        "eligible": 359,
-        "ratio": 1.2073170731707317,
-        "rank": 4
-    },
-    {
         "id": "discord-458751755447042059",
         "username": "jpuck",
         "wins": 88,
-        "games": 322,
+        "games": 323,
         "points": 388,
-        "eligible": 1520,
-        "ratio": 1.204968944099379,
-        "rank": 5
+        "eligible": 1525,
+        "ratio": 1.2012383900928794,
+        "rank": 4,
+        "old_rank": 5,
+        "old_rank_diff": 1
+    },
+    {
+        "id": "discord-188033708471615489",
+        "username": "Jer",
+        "wins": 22,
+        "games": 83,
+        "points": 99,
+        "eligible": 364,
+        "ratio": 1.1927710843373494,
+        "rank": 5,
+        "old_rank": 4,
+        "old_rank_diff": -1
     },
     {
         "id": "313c21bd9162d969e5745bd1c9feb8d090040687",
@@ -83,10 +87,10 @@
         "id": "discord-597504144592338969",
         "username": "miek",
         "wins": 44,
-        "games": 234,
+        "games": 235,
         "points": 213,
-        "eligible": 1205,
-        "ratio": 0.9102564102564102,
+        "eligible": 1210,
+        "ratio": 0.9063829787234042,
         "rank": 9
     },
     {
@@ -153,10 +157,10 @@
         "id": "discord-176013966387052544",
         "username": "depots",
         "wins": 4,
-        "games": 47,
+        "games": 48,
         "points": 20,
-        "eligible": 244,
-        "ratio": 0.425531914893617,
+        "eligible": 249,
+        "ratio": 0.4166666666666667,
         "rank": 16
     }
 ]
