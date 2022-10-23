@@ -1,0 +1,36 @@
+{
+    "game": {
+        "id": "75be0a537e20a586c4db2aa1b8dbc969abe71198",
+        "table": {
+            "id": "b1b4c934ed1b9f43fd13241c692525ad7f5959c1",
+            "name": "Roctober 22"
+        },
+        "winner": {
+            "id": "discord-597504144592338969",
+            "username": "miek"
+        },
+        "losers": [
+            {
+                "id": "discord-458751755447042059",
+                "username": "jpuck",
+                "bot": false
+            },
+            {
+                "id": "discord-525136093998350346",
+                "username": "RoboMoti",
+                "bot": false
+            },
+            {
+                "id": "discord-708836607196790826",
+                "username": "CraigCraig",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2022-10-23T02:49:43.707Z",
+    "submitted_by": {
+        "id": "discord-525136093998350346",
+        "username": "RoboMoti",
+        "avatar_url": "https://cdn.discordapp.com/avatars/525136093998350346/21292d72ca7d9ede3994de1649772a90"
+    }
+}
