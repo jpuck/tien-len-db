@@ -1,0 +1,19 @@
+{
+    "game": {
+        "id": "6778f2c7c2dbbf89265acafae3feedc31690321f",
+        "table": {
+            "id": "28bd5ad2f217546de61b8238a596870ecb138e0a",
+            "name": "reezbo"
+        },
+        "winner": {
+            "id": "0371d335ed703e9fcad09eae13e4962fec869b7c",
+            "username": "reezbo"
+        },
+        "losers": []
+    },
+    "submitted_at": "2023-06-22T19:35:50.660Z",
+    "submitted_by": {
+        "id": "0371d335ed703e9fcad09eae13e4962fec869b7c",
+        "username": "reezbo"
+    }
+}
