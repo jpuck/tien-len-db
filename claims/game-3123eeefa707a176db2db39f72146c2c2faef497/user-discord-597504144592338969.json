@@ -1,0 +1,41 @@
+{
+    "game": {
+        "id": "3123eeefa707a176db2db39f72146c2c2faef497",
+        "table": {
+            "id": "641a5817365fc7912ef9c1ccab48ecd98df4b4b6",
+            "name": "Fuck Miek's Job"
+        },
+        "winner": {
+            "id": "discord-1171481200137863289",
+            "username": "depots_05439"
+        },
+        "losers": [
+            {
+                "id": "discord-188033708471615489",
+                "username": "jer1520",
+                "bot": false
+            },
+            {
+                "id": "discord-188102500870520832",
+                "username": "ottonomous",
+                "bot": false
+            },
+            {
+                "id": "discord-458751755447042059",
+                "username": "jpuck42",
+                "bot": false
+            },
+            {
+                "id": "discord-597504144592338969",
+                "username": "miek8126",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2024-06-14T03:18:48.740Z",
+    "submitted_by": {
+        "id": "discord-597504144592338969",
+        "username": "miek8126",
+        "avatar_url": "https://cdn.discordapp.com/avatars/597504144592338969/44492522c907e89007f80ef02b52fcf1"
+    }
+}
