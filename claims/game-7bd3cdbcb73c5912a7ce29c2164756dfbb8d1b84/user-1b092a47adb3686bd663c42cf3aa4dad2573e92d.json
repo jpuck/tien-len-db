@@ -1,0 +1,40 @@
+{
+    "game": {
+        "id": "7bd3cdbcb73c5912a7ce29c2164756dfbb8d1b84",
+        "table": {
+            "id": "b526970e729da7e01bce1c5fea5ab1283d91256e",
+            "name": "Danimal"
+        },
+        "winner": {
+            "id": "discord-188102500870520832",
+            "username": "ottonomous"
+        },
+        "losers": [
+            {
+                "id": "1b092a47adb3686bd663c42cf3aa4dad2573e92d",
+                "username": "depots",
+                "bot": false
+            },
+            {
+                "id": "discord-188033708471615489",
+                "username": "jer1520",
+                "bot": false
+            },
+            {
+                "id": "discord-189078918987382784",
+                "username": "danimal7771",
+                "bot": false
+            },
+            {
+                "id": "discord-597504144592338969",
+                "username": "miek8126",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2024-08-23T03:09:10.068Z",
+    "submitted_by": {
+        "id": "1b092a47adb3686bd663c42cf3aa4dad2573e92d",
+        "username": "depots"
+    }
+}
