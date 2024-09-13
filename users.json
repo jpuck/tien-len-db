@@ -35,9 +35,9 @@
         "id": "discord-188102500870520832",
         "username": "ottonomous",
         "wins": 24,
-        "games": 147,
+        "games": 148,
         "points": 136,
-        "eligible": 840
+        "eligible": 844
     },
     "discord-806975243724783646": {
         "id": "discord-806975243724783646",
@@ -59,9 +59,9 @@
         "id": "discord-458751755447042059",
         "username": "jpuck42",
         "wins": 93,
-        "games": 340,
+        "games": 341,
         "points": 408,
-        "eligible": 1599
+        "eligible": 1603
     },
     "discord-525136093998350346": {
         "id": "discord-525136093998350346",
@@ -122,10 +122,10 @@
     "discord-188033708471615489": {
         "id": "discord-188033708471615489",
         "username": "jer1520",
-        "wins": 25,
-        "games": 93,
-        "points": 113,
-        "eligible": 411
+        "wins": 26,
+        "games": 94,
+        "points": 117,
+        "eligible": 415
     },
     "discord-176013966387052544": {
         "id": "discord-176013966387052544",
@@ -179,8 +179,8 @@
         "id": "discord-348634934237200395",
         "username": "ralkabout",
         "wins": 0,
-        "games": 1,
+        "games": 2,
         "points": 0,
-        "eligible": 4
+        "eligible": 8
     }
 }

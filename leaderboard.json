@@ -12,11 +12,11 @@
     {
         "id": "discord-188033708471615489",
         "username": "jer1520",
-        "wins": 25,
-        "games": 93,
-        "points": 113,
-        "eligible": 411,
-        "ratio": 1.2150537634408602,
+        "wins": 26,
+        "games": 94,
+        "points": 117,
+        "eligible": 415,
+        "ratio": 1.2446808510638299,
         "rank": 2
     },
     {
@@ -33,10 +33,10 @@
         "id": "discord-458751755447042059",
         "username": "jpuck42",
         "wins": 93,
-        "games": 340,
+        "games": 341,
         "points": 408,
-        "eligible": 1599,
-        "ratio": 1.2,
+        "eligible": 1603,
+        "ratio": 1.1964809384164223,
         "rank": 4
     },
     {
@@ -83,10 +83,10 @@
         "id": "discord-188102500870520832",
         "username": "ottonomous",
         "wins": 24,
-        "games": 147,
+        "games": 148,
         "points": 136,
-        "eligible": 840,
-        "ratio": 0.9251700680272109,
+        "eligible": 844,
+        "ratio": 0.918918918918919,
         "rank": 9
     },
     {
