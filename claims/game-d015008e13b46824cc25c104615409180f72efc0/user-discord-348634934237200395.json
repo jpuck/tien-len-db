@@ -1,0 +1,36 @@
+{
+    "game": {
+        "id": "d015008e13b46824cc25c104615409180f72efc0",
+        "table": {
+            "id": "f2d27570a1869b7f2a405534c62d3ee166bce2f6",
+            "name": "feels"
+        },
+        "winner": {
+            "id": "discord-189078918987382784",
+            "username": "danimal7771"
+        },
+        "losers": [
+            {
+                "id": "discord-188033708471615489",
+                "username": "jer1520",
+                "bot": false
+            },
+            {
+                "id": "discord-188102500870520832",
+                "username": "ottonomous",
+                "bot": false
+            },
+            {
+                "id": "discord-348634934237200395",
+                "username": "ralkabout",
+                "bot": false
+            }
+        ]
+    },
+    "submitted_at": "2024-09-13T02:15:12.554Z",
+    "submitted_by": {
+        "id": "discord-348634934237200395",
+        "username": "ralkabout",
+        "avatar_url": "https://cdn.discordapp.com/avatars/348634934237200395/85f035c4fcdb85d1ff18e37295f09340"
+    }
+}
